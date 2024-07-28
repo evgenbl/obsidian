@@ -1,0 +1,53 @@
+---
+title: "Каши и крупы"
+date: "2024-06-06"
+categories: [news, food]
+page-layout: full
+title-block-banner: false
+toc: true
+image: "porridge_cereals.jpg"
+---
+Каши и крупы на английском:
+
+### Каша - Porridge [ˈpɒrɪʤ]
+
+boiled buckwheat [bɔɪld ˈbʌkwiːt] - [каша гречневая](https://ru.wikipedia.org/wiki/%D0%B3%D1%80%D0%B5%D1%87%D0%BD%D0%B5%D0%B2%D0%B0%D1%8F_%D0%BA%D0%B0%D1%88%D0%B0)
+
+cooked semolina [kʊkt seməˈliːnə] - каша манная
+
+cooked [kʊkt] - приготовленный
+
+semolina [seməˈliːnə] - манная крупа
+
+porridge [ˈpɒrɪʤ] - [каша овсяная](https://translate.yandex.ru/translate?url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FPorridge&lang=en-ru&view=c&gcp=nxr000semp4s)
+
+oatmeal [ˈəʊtmiːl] - овсянка
+
+Boiled pearl barley [bɔɪld_pɜːl_ˈbɑːlɪ]- Каша [перловая](https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D1%80%D0%BB%D0%BE%D0%B2%D0%B0%D1%8F_%D0%BA%D1%80%D1%83%D0%BF%D0%B0)
+
+boiled [bɔɪld] - вареный
+
+pearl barley [pɜːl_ˈbɑːlɪ] - [перловая крупа](https://ru.wikipedia.org/wiki/%D0%BF%D0%B5%D1%80%D0%BB%D0%BE%D0%B2%D0%B0%D1%8F_%D0%BA%D1%80%D1%83%D0%BF%D0%B0)
+
+millet porridge [ˈmɪlɪt_ˈpɒrɪʤ] - [каша пшённая](https://ru.wikipedia.org/wiki/%D0%BF%D1%88%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BA%D0%B0%D1%88%D0%B0)
+
+rice porridge [raɪs_ˈpɒrɪʤ]- [каша рисовая](https://ru.wikipedia.org/wiki/%D1%80%D0%B8%D1%81%D0%BE%D0%B2%D0%B0%D1%8F_%D0%BA%D0%B0%D1%88%D0%B0)
+
+### Крупы - cereals
+
+semolina [seməˈliːnə] - [манная крупа](https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BA%D1%80%D1%83%D0%BF%D0%B0) 
+
+pearl barley [pɜːl_ˈbɑːlɪ] - [перловая крупа](https://ru.wikipedia.org/wiki/%D0%BF%D0%B5%D1%80%D0%BB%D0%BE%D0%B2%D0%B0%D1%8F_%D0%BA%D1%80%D1%83%D0%BF%D0%B0)
+
+buckwheat [ˈbʌkwiːt] - гречневая крупа, гречиха
+
+fine-ground barley [faɪn-graʊnd ˈbɑːlɪ] - [ячневая крупа](https://ru.wikipedia.org/wiki/%D0%AF%D1%87%D0%BD%D0%B5%D0%B2%D0%B0%D1%8F_%D0%BA%D1%80%D1%83%D0%BF%D0%B0), ячмень мелкого помола
+
+oatmeal [ˈəʊtmiːl] - овсянка, овсяная каша
+
+grits [grɪts] - овсяная крупа, крупа
+
+maize groats [meɪz_grəʊts] - [маисовая крупа](https://ru.wikipedia.org/wiki/%D0%9A%D1%83%D0%BA%D1%83%D1%80%D1%83%D0%B7%D0%B0)
+
+corn groats [kɔːn_grəʊts] - [кукурузная крупа](https://www.tveda.ru/encyclopedia/krupy-bobovye-i-muka/krupa-kukuruznaya/)
+

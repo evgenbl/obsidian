@@ -1,0 +1,70 @@
+---
+title: "Неправильные глаголы.Таблица."
+date: "2024-04-15"
+categories: [news, irregular_verbs]
+page-layout: full
+title-block-banner: false
+toc: true
+image: "irregular_verbs.jpg"
+---
+
+Таблица неправильных глаголов.
+
+------------------------------------------------------------------------
+
+### Глаголы,форма глаголов,перевод.
+
+|       |                           |                           |                          |                 |
+|-------|---------------------------|---------------------------|--------------------------|-----------------|
+| **№** | **I форма глагола**       | **II форма глагола**      | **III форма глагола**    | **Перевод**     |
+| 1     | be \[bi:\]                | was \[wɔz\], were \[wз:\] | been \[bi:n\]            | Быть            |
+| 2     | have \[hæv\]              | had \[hæd\]               | had \[hæd\]              | Иметь           |
+| 3     | do \[du:\]                | did \[did\]               | done \[dʌn\]             | Делать          |
+| 4     | say \[sei\]               | said \[sed\]              | said \[sed\]             | Говорить        |
+| 5     | go \[gou\]                | went \[went\]             | gone \[gɔn\]             | Идти            |
+| 6     | know \[nou\]              | knew \[nju:\]             | known \[noun\]           | Знать           |
+| 7     | get \[ get \]             | got \[gɔt\]               | got \[gɔt\]              | Получать        |
+| 8     | come \[kʌm\]              | came \[keim\]             | come \[kʌm\]             | Приходить       |
+| 9     | see \[si:\]               | saw \[sɔ:\]               | seen \[si:n\]            | Видеть          |
+| 10    | think \[θiŋk\]            | thought \[θɔ:t\]          | thought \[θɔ:t\]         | Думать          |
+| 11    | make \[meik\]             | made \[meid\]             | made \[meid\]            | Производить     |
+| 12    | let \[let\]               | let \[let\]               | let \[let\]              | Позволять       |
+| 13    | take \[teik\]             | took \[tuk\]              | taken \[‘teik(ə)n\]      | Брать, взять    |
+| 14    | tell \[tel\]              | told \[tould\]            | told \[tould\]           | Рассказывать    |
+| 15    | put \[put\]               | put \[put\]               | put \[put\]              | Положить        |
+| 16    | feel \[fi:l\]             | felt \[felt\]             | felt \[felt\]            | Чувствовать     |
+| 17    | give \[giv\]              | gave \[geiv\]             | given \[givn\]           | Давать          |
+| 18    | find \[faind\]            | found \[faund\]           | found \[faund\]          | Находить        |
+| 19    | begin \[bi’gin\]          | began \[bi’gæn\]          | begun \[bi’gʌn\]         | Начинать        |
+| 20    | hear \[hiə\]              | heard \[hз:d\]            | heard \[hз:d\]           | Слышать         |
+|       |                           |                           |                          |                 |
+| 21    | leave \[li:v\]            | left \[left\]             | left \[left\]            | Оставлять       |
+| 22    | keep \[ki:p\]             | kept \[kept\]             | kept \[kept\]            | Хранить         |
+| 23    | sit \[sit\]               | sat \[sæt\]               | sat \[sæt\]              | Сидеть          |
+| 24    | win \[win\]               | won \[wʌn\]               | won \[wʌn\]              | Выигрывать      |
+| 25    | set \[set\]               | set \[set\]               | set \[set\]              | Ставить         |
+| 26    | run \[rʌŋ\]               | ran \[ræŋ\]               | run \[rʌŋ\]              | Бежать          |
+| 27    | hold \[hould\]            | held \[held\]             | held \[held\]            | Держать         |
+| 28    | read \[ri:d\]             | read \[red\]              | read \[red\]             | Читать          |
+| 29    | stand \[stænd\]           | stood \[stu:d\]           | stood \[stu:d\]          | Стоять          |
+| 30    | understand \[ʌndə’stænd\] | understood \[ʌndə’stud\]  | understood \[ʌndə’stud\] | Понимать        |
+| 31    | fall \[fɔ:l\]             | fell \[fel\]              | fallen \[‘fɔ:lən\]       | Падать          |
+| 32    | lay \[lei\]               | laid \[leid\]             | laid \[leid\]            | Класть          |
+| 33    | sleep \[sli:p\]           | slept \[slept\]           | slept \[slept\]          | Спать           |
+| 34    | lose \[lu:z\]             | lost \[lɔst\]             | lost \[lɔst\]            | Терять          |
+| 35    | cut \[kʌt\]               | cut \[kʌt\]               | cut \[kʌt\]              | Резать          |
+| 36    | speak \[spi:k\]           | spoke \[spouk\]           | spoken \[‘spouk(e)n\]    | Говорить        |
+| 37    | become \[bi:kʌm\]         | became \[bi:keim\]        | become\[bi:kʌm\]         | Становиться     |
+| 38    | learn \[lз:n\]            | learnt \[lз:nt\]          | learnt \[lз:nt\]         | Учить           |
+| 39    | bring \[briŋ\]            | brought \[brɔ:t\]         | brought \[brɔ:t\]        | Приносить       |
+| 40    | shut \[ʃʌt\]              | shut \[ʃʌt\]              | shut \[ʃʌt\]             | Закрывать       |
+| 41    | hit \[hit\]               | hit \[hit\]               | hit \[hit\]              | Попадать в цель |
+| 42    | catch \[kætʃ\]            | caught \[kɔ:t\]           | caught \[kɔ:t\]          | Ловить, успеть  |
+| 43    | break \[breik\]           | broke \[brouk\]           | broken \[‘brouk(e)n\]    | Ломать          |
+| 44    | shake \[ʃeik\]            | shook \[ʃuk\]             | shaken \[‘ʃeik(ə)n\]     | Трясти          |
+| 45    | drink \[driŋk\]           | drank \[dræŋk\]           | drunk \[drʌŋk\]          | Пить            |
+| 46    | lie \[lai\]               | lay \[lei\]               | lain \[lein\]            | Лежать          |
+| 47    | eat \[i:t\]               | ate \[et\]                | eaten \[‘i:tn\]          | Есть            |
+| 48    | mean \[mi:n\]             | meant \[ment\]            | meant \[ment\]           | Значить         |
+| 49    | send \[send\]             | sent \[sent\]             | sent \[sent\]            | Посылать        |
+| 50    | meet \[mi:t\]             | met \[met\]               | met \[met\]              | Встречаться     |

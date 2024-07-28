@@ -1,0 +1,101 @@
+---
+title: "Формы глагола to have"
+date: "2024-04-15"
+categories: [news, verbs]
+page-layout: full
+title-block-banner: false
+toc: true
+image: "have.jpg"
+---
+
+## Настоящее
+
+### Утвердительная форма
+
+I/you/we/they - have
+
+He/she/it - has 
+
+### Отрицательная форма
+
+I/you/we/they - do not have
+
+He/she/it - does not have
+
+### Вопросительная форма
+
+Do I/you/we/they - have?
+
+Does he/she/it - have?
+
+## Прошедшее
+
+### Утвердительная форма
+
+I/you/he/she/it/we/they - had
+
+### Отрицательная форма
+
+I/you/he/she/it/we/they - did not have
+
+### Вопросительная форма
+
+Did - I/you/he/she/it/we/they - have?
+
+## Будущее
+
+### Утвердительная форма
+
+I/you/he/she/it/we/they - will have
+
+### Отрицательная форма
+
+I/you/he/she/it/we/they - will not have
+
+### Вопросительная форма
+
+Will - I/you/he/she/it/we/they - have?
+
+## Прошедшее совершенное
+
+### Утвердительная форма
+
+I/you/he/she/it/we/they - had had
+
+### Отрицательная форма
+
+I/you/he/she/it/we/they - had not had
+
+### Вопросительная форма
+
+Had - I/you/he/she/it/we/they - had?
+
+## Настоящее совершенное
+
+### Утвердительная форма
+
+I/you/he/she/it/we/they - have had
+
+### Отрицательная форма
+
+I/you/he/she/it/we/they - have not had
+
+### Вопросительная форма
+
+Have - I/you/he/she/it/we/they - had? 
+
+## Будущее совершенное
+
+### Утвердительная форма
+
+I/you/he/she/it/we/they - will have had
+
+### Отрицательная форма
+
+I/you/he/she/it/we/they - will not have had
+
+### Вопросительная форма
+
+Will - I/you/he/she/it/we/they - have had?
+
+[Источник - Онлайн школа Skysmart](https://skysmart.ru/articles/english/glagol-to-have)

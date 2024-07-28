@@ -1,0 +1,69 @@
+---
+title: "Вопросы"
+date: "2024-05-18"
+categories: [news, questions]
+page-layout: full
+title-block-banner: false
+toc: true
+image: "questions.jpg"
+---
+
+Вопросы [ˈkwesʧən] - questions
+ 
+Where? [weə] - Где? Куда?
+
+Why? [waɪ] - Почему? Зачем?
+ 
+How? [haʊ] - Как?
+   
+Whom? [huː] - Кого? Кому?
+
+When? [wen] - Когда?
+
+Which? [wɪʧ] - Который?
+
+Who?  [huː] - Кто? Который?
+
+Whose? [huːz] - Чей? Чья? Которого?
+
+What? [wɒt] - Что? Какой?
+
+What has happened? - Что случилось?
+
+What do you want? - Что Вы хотите?
+
+Who do you want? - Кого Вам нужно?
+
+Who are you looking for? - Кого Вы ищете?
+
+Who can I ask? - Кого я могу спросить?
+
+Where can I find him? - Где я могу его найти?
+
+Who told you that? - Кто Вам это сказал?
+
+What's happened? - Что случилось?
+
+What do you mean? - Что Вы имеете в виду?
+
+What's the matter? - В чем дело?
+
+Don't you like it? - Вам это не нравится?
+
+Could you do me a favor? - Не могли бы Вы оказать мне услугу?
+
+Can you tell me? - Не скажете мне...?
+
+May I have your pen? - Не дадите мне Вашу ручку?
+
+May I have a cigarette, please? - У Вас не найдется сигареты?
+
+Do you smoke? - Вы курите?
+
+May I trouble you for a light? - Разрешите прикурить?
+
+Do you mind if I smoke? - Вы не против, если я закурю?
+
+Would you, please, keep an eye on my baggage? - Вы не посмотрите за моим багажом?
+
+Allow me to help you? - Разрешите помочь Вам?

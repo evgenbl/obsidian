@@ -1,0 +1,555 @@
+---
+title: "Компьютерная терминология"
+date: "2024-05-28"
+categories: [news, dict]
+page-layout: full
+title-block-banner: false
+toc: true
+image: "komp.jpg"
+---
+
+[Вот некоторые компьютерные термины:](https://brodude.ru/20-kompyuternyh-terminov-kotorye-dolzhen-znat-kazhdyj/)
+
+ОЗУ (RAM) — (Random Access Memory, с англ. — «Запоминающее устройство с произвольным доступом») - [оперативная память](https://ru.wikipedia.org/wiki/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D0%B0%D1%8F_%D0%BF%D0%B0%D0%BC%D1%8F%D1%82%D1%8C)
+
+ПЗУ (ROM)— [Постоя́нное запомина́ющее устро́йство](https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%BD%D0%BE%D0%B5_%D0%B7%D0%B0%D0%BF%D0%BE%D0%BC%D0%B8%D0%BD%D0%B0%D1%8E%D1%89%D0%B5%D0%B5_%D1%83%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%BE) — энергонезависимая память, используется для хранения массива неизменяемых данных - постоянная память
+
+IP-адрес (IP address - (от англ. Internet Protocol) — уникальный числовой идентификатор устройства в компьютерной сети, работающей по протоколу [IP](https://ru.wikipedia.org/wiki/IP)
+
+[Программирование](https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5) - programming
+[ˈprəʊgræmɪŋ] — человек даёт компьютеру алгоритм действий.
+
+[3D-печать](https://translated.turbopages.org/proxy_u/en-ru.ru.4a8c532f-6653d405-487d3626-74722d776562/https/en.wikipedia.org/wiki/3D_printing) - 3D printing — это создание трехмерного объекта по модели [САПР](https://translated.turbopages.org/proxy_u/en-ru.ru.4a8c532f-6653d405-487d3626-74722d776562/https/en.wikipedia.org/wiki/Computer-aided_design) или цифровой [3D-модели](https://translated.turbopages.org/proxy_u/en-ru.ru.4a8c532f-6653d405-487d3626-74722d776562/https/en.wikipedia.org/wiki/3D_modeling). Это можно сделать с помощью различных процессов, в ходе которых материал наносится, соединяется или затвердевает под управлением компьютера, при этом материал добавляется слой за слоем (например, пластмассы, жидкости или порошкообразные материалы)
+
+[Интернет вещей](https://ru.wikipedia.org/wiki/%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82_%D0%B2%D0%B5%D1%89%D0%B5%D0%B9) - (internet of things, IoT) — устройства, которые подключаются к интернету и могут взаимодействовать друг с другом.
+
+[Кеш](https://ru.wikipedia.org/wiki/%D0%9A%D1%8D%D1%88) - cache [kæʃ] — область программы, позволяющая получить быстрый доступ к информации, которую пользователь недавно использовал.
+
+[Cookie](https://ru.wikipedia.org/wiki/Cookie) [ˈkʊkɪ] — куки - маленькие файлы, которые сайт отправляет автоматически на компьютер пользователя.
+
+Облако (Cloud- remote server)— удалённый сервер, на котором хранятся данные пользователя.
+
+[Фишинг](https://ru.wikipedia.org/wiki/%D1%84%D0%B8%D1%88%D0%B8%D0%BD%D0%B3) - phishing [ˈfɪʃɪŋ] — один из способов кражи информации
+
+adress [əˈdres] — адрес
+
+algorithm [ˈælgərɪðm] — [алгоритм](https://ru.wikipedia.org/wiki/%D0%B0%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC)
+
+analog [ˈænəlɒg] — аналог
+
+asterisk [ˈæstərɪsk] — звездочка
+
+audiobook [ɔːdɪəʊˈbʊk] — [аудиокнига](https://ru.wikipedia.org/wiki/%D0%B0%D1%83%D0%B4%D0%B8%D0%BE%D0%BA%D0%BD%D0%B8%D0%B3%D0%B0)
+
+avatar [ævəˈtɑː] — [аватар](https://ru.wikipedia.org/wiki/%D0%90%D0%B2%D0%B0%D1%82%D0%B0%D1%80_(%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B0))
+
+background  [ˈbækgraʊnd] — фон
+
+backup [ˈbækʌp] — резервная копия
+
+banner [ˈbænə] — баннер ([англ](https://ru.wikipedia.org/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA). banner — заголовок, транспарант)
+
+bit [bɪt] — [бит](https://ru.wikipedia.org/wiki/%D0%91%D0%B8%D1%82)
+
+blog [blɒg] — [блог](https://translate.yandex.ru/translate?url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FBlog&lang=en-ru&view=c&gcp=hzs000se5yff)
+
+blogosphere [ˈblɒgəsfɪər] — [блогосфера](https://ru.wikipedia.org/wiki/%D0%B1%D0%BB%D0%BE%D0%B3%D0%BE%D1%81%D1%84%D0%B5%D1%80%D0%B0)
+
+browser [ˈbraʊzə] — [браузер](https://ru.wikipedia.org/wiki/%D0%91%D1%80%D0%B0%D1%83%D0%B7%D0%B5%D1%80)
+
+browsing [ˈbraʊzɪŋ] — просмотр
+
+buffer  [ˈbʌfə] — [буфер](https://ru.wikipedia.org/wiki/%D0%91%D1%83%D1%84%D0%B5%D1%80_(%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0))
+
+bug [buːg] — [баг](https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%BD%D0%B0%D1%8F_%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0) (сбой, ошибка, глюк)
+
+byte [baɪt] — [байт](https://ru.wikipedia.org/wiki/%D0%B1%D0%B0%D0%B9%D1%82)
+
+cache [kæʃ] — [кэш](https://ru.wikipedia.org/wiki/%D0%9A%D1%8D%D1%88)()
+
+calculator [ˈkælkjʊleɪtə] — калькулятор
+
+cancel [ˈkænsəl] — отменить
+
+card [kɑːd] — карта
+
+checksum [ˈʧeksəm] — [контрольная сумма](https://ru.wikipedia.org/wiki/%D0%BA%D0%BE%D0%BD%D1%82%D1%80%D0%BE%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D1%81%D1%83%D0%BC%D0%BC%D0%B0)
+
+chip [ʧɪp]— чип
+
+click [klɪk] (button [bʌtn]) — кликнуть (кнопка)
+
+code [kəʊd] — код
+
+colorprinter [ˈkʌlə ˈprɪntə] — цветной принтер
+
+[command line](https://ru.wikipedia.org/wiki/%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81_%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%BD%D0%BE%D0%B9_%D1%81%D1%82%D1%80%D0%BE%D0%BA%D0%B8) [kəˈmɑːnd laɪn]— командная строка
+
+compatible [kəmˈpætəbl] — совместимый
+
+compute [kəmˈpjuːt] — вычислить
+
+computer [kəmˈpjuːtə]— компьютер, ЭВМ, вычислительная машина
+
+computer game [kəmˈpjuːtə geɪm] — [компьютерная игра](https://ru.wikipedia.org/wiki/%D0%B8%D0%B3%D1%80%D0%BE%D0%B2%D0%B0%D1%8F_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0)
+
+computer keyboard computer keyboard — [компьютерная клавиатура](https://ru.wikipedia.org/wiki/%D0%BA%D0%BB%D0%B0%D0%B2%D0%B8%D0%B0%D1%82%D1%83%D1%80%D0%B0_%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%B0)
+
+computer monitor [kəmˈpjuːtə ˈmɒnɪtə] — [компьютерный монитор](https://ru.wikipedia.org/wiki/%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE%D0%BC%D0%BE%D0%BD%D0%B8%D1%82%D0%BE%D1%80)
+
+connect [kəˈnekt] — соединиться
+
+control [kɒnˈtrəʊl] — контроль
+
+controller [kənˈtrəʊlə] — диспетчер, контроллер, блок управления, устройство управления
+
+copy [ˈkɒpɪ] — копия
+
+counter [ˈkaʊntə] — счетчик
+
+CPU(central processing unit) [()siː()piːˈjuː]— [центральный процессор](https://translate.yandex.ru/translate?url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FCentral_processing_unit&lang=en-ru&view=c&gcp=hzs000se5yff)
+
+create [krɪˈeɪt] — создать
+
+cursor [ˈkɜːsə] — курсор, указатель
+
+data bank [ˈdeɪtə bæŋk] — [банк данных](https://translate.yandex.ru/translate?url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FData_bank&lang=en-ru&view=c&gcp=hzs000se5yff)
+
+database [ˈdeɪtəbeɪs] —  [база данных](https://ru.wikipedia.org/wiki/%D0%91%D0%B0%D0%B7%D0%B0_%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85)
+
+data [ˈdeɪtə] — [данные](https://ru.wikipedia.org/wiki/%D0%94%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5)
+
+database language [ˈdeɪtəbeɪs_ˈlæŋgwɪʤ] — язык базы данных
+
+database management system [ˈdeɪtəbeɪs ˈmænɪʤmənt ˈsɪstəm]
+ — [система управления базой данных](https://ru.wikipedia.org/wiki/%D0%A1%D0%A3%D0%91%D0%94)
+
+debugger [diːˈbʌɡə(r)] — [отладчик](https://translate.yandex.ru/translate?url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FDebugger&lang=en-ru&view=c&gcp=hzs000se5yff)
+
+decoder [diːˈkəʊdə] — [декодер](https://ru.wikipedia.org/wiki/%D0%94%D0%B5%D0%BA%D0%BE%D0%B4%D0%B5%D1%80)
+
+default [dɪˈfɔːlt] — [по умолчанию](https://ru.wikipedia.org/wiki/%D0%9F%D0%BE_%D1%83%D0%BC%D0%BE%D0%BB%D1%87%D0%B0%D0%BD%D0%B8%D1%8E), используемый по умолчанию
+
+delete [dɪˈliːt] — удалить
+
+demo version [ˈdeməʊ vɜːʃn] — [демонстрационная версия](https://ru.wikipedia.org/wiki/%D0%B4%D0%B5%D0%BC%D0%BE%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F)
+
+design [dɪˈzaɪn] — дизайн (проектировать, чертить, задумать, а также проект, план, рисунок)
+
+desktop [ˈdesktɒp] — [рабочий стол](https://ru.wikipedia.org/wiki/%D0%A0%D0%B0%D0%B1%D0%BE%D1%87%D0%B8%D0%B9_%D1%81%D1%82%D0%BE%D0%BB)
+
+device [dɪˈvaɪs] — [устройство](https://ru.wikipedia.org/wiki/%D0%BF%D1%80%D0%B8%D0%B1%D0%BE%D1%80)
+
+device driver [dɪˈvaɪs ˈdraɪvə] — [драйвер устройства](https://translated.turbopages.org/proxy_u/en-ru.ru.fb81aedb-66541b8a-75eac12c-74722d776562/https/en.wikipedia.org/wiki/Device_driver)
+
+[digest](https://ru.wikipedia.org/wiki/%D0%94%D0%B0%D0%B9%D0%B4%D0%B6%D0%B5%D1%81%D1%82) [ˈdaɪʤest] — [дайджест](https://ru.wikipedia.org/wiki/%D0%94%D0%B0%D0%B9%D0%B4%D0%B6%D0%B5%D1%81%D1%82_(%D0%BF%D1%80%D0%B5%D1%81%D1%81%D0%B0)) - краткое изложение, резюме от лат. 
+
+digerere (от лат. digerere «разделять») - разделять
+
+digit [ˈdɪʤɪt] — цифра
+
+digital [ˈdɪʤɪtl] — цифровой
+
+disable [dɪsˈeɪbl] — отключить
+
+disk [dɪsk] — диск, [жёсткий диск](https://ru.wikipedia.org/wiki/%D0%96%D1%91%D1%81%D1%82%D0%BA%D0%B8%D0%B9_%D0%B4%D0%B8%D1%81%D0%BA#%D0%93%D0%B5%D1%80%D0%BC%D0%BE%D0%B7%D0%BE%D0%BD%D0%B0)
+
+disk drive  [dɪsk draɪv] — [дисковод](https://ru.wikipedia.org/wiki/%D0%94%D0%B8%D1%81%D0%BA%D0%BE%D0%B2%D0%BE%D0%B4)
+
+diskette [dɪsˈket] — [дискета](https://ru.wikipedia.org/wiki/%D0%94%D0%B8%D1%81%D0%BA%D0%B5%D1%82%D0%B0)
+
+download [ˈdaʊnləʊd] —  загрузка, скачивание (например, файла с сайта, из интернета и т. д.)
+
+driver [ˈdraɪvə] — [драйвер](https://ru.wikipedia.org/wiki/%D0%94%D1%80%D0%B0%D0%B9%D0%B2%D0%B5%D1%80) - (англ. driver, мн. ч. дра́йверы) — компьютерное программное обеспечение.
+
+edit [ˈedɪt] — отредактировать, редактировать
+
+editing [ˈedɪtɪŋ] — редактирование
+
+editor [ˈedɪtə] —[редактор](https://ru.wikipedia.org/wiki/%D0%A0%D0%B5%D0%B4%D0%B0%D0%BA%D1%82%D0%BE%D1%80)
+
+e-mail [iˈmeɪl] - [Электронная почта](https://ru.wikipedia.org/wiki/%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BF%D0%BE%D1%87%D1%82%D0%B0)
+
+erase [ɪˈreɪz]  стереть
+
+error [ˈerə] - ошибка
+
+exit [ˈegzɪt] — выход
+
+FAQ, frequently asked questions [ˈfriːkwəntlɪ ɑːskt ˈkwesʧən] - [часто задаваемые вопросы](https://translate.yandex.ru/translate?url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FFAQ&lang=en-ru&view=c&gcp=hzs000se5yff)
+
+field [fiːld] — область
+
+file [faɪl] — файл
+
+file manager [faɪl ˈmænɪʤə] — [менеджер файлов](https://translate.yandex.ru/translate?url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FFile_manager&lang=en-ru&view=c&gcp=hzs000se5yff)
+
+file system [faɪl ˈsɪstɪm] — [файловая система](https://ru.wikipedia.org/wiki/%D1%84%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%D0%B0%D1%8F_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0)
+
+file type [faɪl taɪp] — [тип файла](https://ru.wikipedia.org/wiki/%D1%82%D0%B8%D0%BF_%D1%84%D0%B0%D0%B9%D0%BB%D0%B0)
+
+fixed part [fɪkst pɑːt] — неподвижная часть
+
+fixed-point [fɪkst-pɔɪnt] — неподвижный пункт
+
+flash drive [flæʃ draɪv] - [флэшка](https://ru.wikipedia.org/wiki/USB-%D0%BD%D0%B0%D0%BA%D0%BE%D0%BF%D0%B8%D1%82%D0%B5%D0%BB%D1%8C)
+
+floppy disk [ˈflɒpɪ dɪsk] — дискета
+
+folder [ˈfəʊldə] — папка
+
+font [fɒnt] — шрифт
+
+font size [fɒnt saɪz] — [размер шрифта](https://ru.wikipedia.org/wiki/%D0%BA%D0%B5%D0%B3%D0%BB%D1%8C)
+
+font style [fɒnt staɪl] — [стиль шрифта](https://ru.wikipedia.org/wiki/%D1%88%D1%80%D0%B8%D1%84%D1%82)
+
+font weight [fɒnt weɪt] — [жирность шрифта](https://ru.wikipedia.org/wiki/%D0%B3%D0%BE%D1%80%D0%B8%D0%B7%D0%BE%D0%BD%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82)
+
+foreground [ˈfɔːgraʊnd] — передний план
+
+form feed [fɔːm fiːd] — подача формы
+
+format [ˈfɔːmæt] — формат
+
+formatter [ˈfɔːmətər] — форматирован, форматировщик
+
+forum [ˈfɔːrəm] — форум
+
+freeware [ˈfriːweər] — бесплатное программное обеспечение
+
+gigabyte [ˈɡɪɡəbaɪt] — [гигабайт](https://translated.turbopages.org/proxy_u/en-ru.ru.f7d9c20f-66543e4e-60a08ae8-74722d776562/https/en.wikipedia.org/wiki/Gigabyte)
+
+grid [grɪd] — [сетка](https://skillbox.ru/media/code/uchimsya-verstat-v-setke-bolshoy-gayd-po-css-grid/)
+
+guestbook [ˈgestbʊk] — [гостевая книга](https://gusarov-group.by/wiki-internet-marketologa/guest-book/)
+
+hard disk [hɑːd dɪsk] — [жесткий диск](https://translate.yandex.ru/translate?url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FHard_disk_drive&lang=en-ru&view=c&gcp=hzs000se5yff)
+
+hard link [hɑːd lɪŋk] — прямая ссылка, [жесткая ссылка](https://ru.wikipedia.org/wiki/%D0%B6%D0%B5%D1%81%D1%82%D0%BA%D0%B0%D1%8F_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0)
+
+help [help] — помощь
+
+history [ˈhɪstərɪ] — история
+
+home page [ˈhəʊmpeɪʤ] — [домашняя страница](https://translate.yandex.ru/translate?url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FHome_page&lang=en-ru&view=c&gcp=hzs000se5yff)
+
+hyperlink [ˈhaɪpəlɪŋk] — [гиперссылка](https://ru.wikipedia.org/wiki/%D0%93%D0%B8%D0%BF%D0%B5%D1%80%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0)
+
+icon [ˈaɪkɒn]— иконка
+
+index [ˈɪndeks] — индекс
+
+input [ˈɪnpʊt] — ввод
+
+insert [ˈɪnsɜːt] — вставка
+
+install [ɪnˈstɔːl] — установить
+
+instant message [ˈɪnstənt ˈmesɪʤ] — мгновенное сообщение
+
+interface [ˈɪntəfeɪs] — интерфейс 
+
+Internet address [ˈɪntənɛt əˈdres] — Интернет-адрес
+
+Internet cafe [ˈɪntənɛt ˈkæfeɪ] — Интернет-кафе
+
+Internet provider [ˈɪntənɛt prəˈvaɪdə] — Интернет-провайдер
+
+interrupt [ɪntəˈrʌpt] — прервать
+
+italic type [ɪˈtælɪk taɪp] — курсив
+
+job scheduling [ʤəʊb_ˈʃedjuːlɪŋ]— планирование работы, планирование заданий
+
+join [ʤɔɪn] — соединение, присоединиться
+
+joystick [ˈʤɔɪstɪk] — [джойстик](https://ru.wikipedia.org/wiki/%D0%B4%D0%B6%D0%BE%D0%B9%D1%81%D1%82%D0%B8%D0%BA)
+
+justification [ʤʌstɪfɪˈkeɪʃn] — выравнивание, выравнивание по ширине, подтверждение
+
+key [kiː] — ключ
+
+keyboard [ˈkiːbɔːd] — клавиатура
+
+keyword [ˈkiːwɜːd] — ключевое слово
+
+kilobit [ˈkɪləbɪt] — [килобит](https://ru.wikipedia.org/wiki/%D0%BA%D0%B8%D0%BB%D0%BE%D0%B1%D0%B8%D1%82)
+
+kilobyte [ˈkɪləbaɪt] — [килобайт](https://ru.wikipedia.org/wiki/%D0%BA%D0%B1%D0%B0%D0%B9%D1%82)
+
+landscape mode [ˈlændskeɪp məʊd] — горизонтальный (ландшафтный режим)
+
+laptop computer [ˈlæptɒp kəmˈpjuːtə] — ноутбук
+
+laser printer [ˈleɪzə ˈprɪntə] — [лазерный принтер](https://ru.wikipedia.org/wiki/%D0%BB%D0%B0%D0%B7%D0%B5%D1%80%D0%BD%D0%B0%D1%8F_%D0%BF%D0%B5%D1%87%D0%B0%D1%82%D1%8C)
+
+LCD(Liquid Crystal Display) [lkt]— [жидкокристаллический монитор](https://translate.yandex.ru/translate?url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FLiquid-crystal_display&lang=en-ru&view=c&gcp=hzs000se5yff)
+
+letter [ˈletə] — письмо
+
+library [ˈlaɪbrərɪ] — [библиотека](https://translate.yandex.ru/translate?url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FLibrary&lang=en-ru&view=c&gcp=hzs000se5yff) 
+
+life time [ˈlaɪftaɪm] — срок службы, продолжительность жизни
+
+log in [lɒg ɪn] — войти в систему, авторизоваться
+
+log out [lɒg aʊt] — выйти из системы
+
+manual [ˈmænjʊəl] — руководство, инструкция
+
+matrix [ˈmeɪtrɪks] — матрица
+
+megabyte [ˈmegəbaɪt] — [мегабайт](https://translate.yandex.ru/translate?url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FMegabyte&lang=en-ru&view=c&gcp=hzs000se5yff)
+
+memory map [ˈmemərɪ mæp] — [карта памяти](https://ru.wikipedia.org/wiki/%D0%BA%D0%B0%D1%80%D1%82%D0%B0_%D0%BF%D0%B0%D0%BC%D1%8F%D1%82%D0%B8)
+
+memory size [ˈmemərɪ saɪz] — размер памяти, объем памяти
+
+memory [ˈmemərɪ] — память
+
+menu [ˈmenjuː] — меню
+
+menu bar [ˈmenjuː bɑː] — [панель меню](https://translate.yandex.ru/translate?url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FMenu_bar&lang=en-ru&view=c&gcp=hzs000se5yff)
+
+menu item [ˈmenjuː ˈaɪtəm] — пункт меню
+
+merge [mɜːʤ] — слияние, поглощать
+
+message [ˈmesɪʤ] — сообщение
+
+mirror [ˈmɪrə] — зеркало
+
+modem [ˈməʊdem] — модем
+
+monitor [ˈmɒnɪtə] — монитор
+
+mouse [maʊs]— мышь
+
+mouse pad [maʊs pæd] — [коврик для мыши](https://ru.wikipedia.org/wiki/%D0%BA%D0%BE%D0%B2%D1%80%D0%B8%D0%BA_%D0%B4%D0%BB%D1%8F_%D0%BC%D1%8B%D1%88%D0%B8)
+
+navigation bar [nævɪˈgeɪʃn bɑː] — навигационный бар, панель навигации
+
+Navigator [ˈnævɪgeɪtə] — Навигатор
+
+net [net] — сеть
+
+network [ˈnetwɜːk] — сеть
+
+next [nekst] — следующий
+
+node [nəʊd] — узел 
+
+notebook computer [ˈnəʊtbʊk kəmˈpjuːtə] — ноутбук, портативный компьютер
+
+open a file [ˈəʊpən ɑ faɪl] — откройте файл
+
+open source [ˈəʊpən sɔːs] — [открытый источник](https://ru.wikipedia.org/wiki/%D0%9E%D0%9F%D0%9E)
+
+operating system [ˈɒpəreɪtɪŋ sɪstəm]— операционная система
+
+optical disc [ˈɒptɪkəl dɪsk] — [оптический диск](https://ru.wikipedia.org/wiki/%D0%BE%D0%BF%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%B4%D0%B8%D1%81%D0%BA)
+
+optical fiber (fibre) [ˈɒptɪkəl faɪbə] — оптическое волокно (волокно)
+
+output [ˈaʊtpʊt] — выход, вывод, продукция
+
+panel [pænl] — панель
+
+partition [pɑːˈtɪʃn] — разделение, раздел
+
+patch [pæʧ] — патч
+
+path [pɑːθ] — путь
+
+pop-up menu [pɒp ʌp ˈmenjuː] — выпадающее меню
+
+port [pɔːt] — порт
+
+portable [ˈpɔːtəbl] — портативный
+
+portal [pɔːtl] — портал
+
+PostScript [ˈpəʊstskrɪpt]— Постскриптум
+
+print [prɪnt] — печать
+
+process [ˈprəʊsəs] — процесс
+
+program [ˈprəʊgræm] — программа
+
+programmed key [ˈprəʊgræmɪŋ kiː] — программный ключ
+
+prompt [prɒmpt] — подсказка
+
+protocol [ˈprəʊtəkɒl] — [протокол](https://ru.wikipedia.org/wiki/%D0%BF%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB)
+
+proxy gateway [ˈprɒksɪ ˈgeɪtweɪ] — прокси, прокси-шлюз
+
+proxy server [ˈprɒksɪ ˈsɜːvə] — [прокси сервер](https://ru.wikipedia.org/wiki/proxy-%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80)
+
+push button [pʊʃ bʌtn] — нажать кнопку
+
+push-down list [pʊʃ daʊn lɪst] — ниспадающий список, выпадающий список
+
+read-only memory [riːd ˈəʊnlɪ ˈmemərɪ] — постоянная память
+
+read-only [riːdˈəʊnlɪ] — только для чтения
+
+reboot [rɪˈbuːt] — перезагрузка, перезагрузить
+
+recovery [rɪˈkʌvərɪ] — восстановление
+
+recycle bin [riːˈsaɪkl bɪn] — корзина
+
+redirect [riːdɪˈrekt] — переадресовать
+
+redo [ˈriːˈduː] — сделать заново, переделывать
+
+register [ˈreʤɪstə] — регистр
+
+reset [riːˈset] — сброс
+
+reverse (video) [rɪˈvɜːs ˈvɪdɪəʊ] — реверс (видео)
+
+right alignment [raɪt əˈlaɪnmənt]— выравнивание по правому краю
+
+robot [ˈrəʊbɒt] — робот
+
+roman type [ˈrəʊmən taɪp] — шрифт с засечками
+
+root [ruːt] — рут, корень, коренной
+
+router [ˈruːtə] — [маршрутизатор](https://ru.wikipedia.org/wiki/%D0%BC%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82%D0%B8%D0%B7%D0%B0%D1%82%D0%BE%D1%80)
+
+save [seɪv]— сохранить
+
+scan [skæn] — просмотр, сканировать
+
+scanner [ˈskænə] — сканер
+
+screen  [skriːn] — экран
+
+screen saver [skriːn ˈseɪvə] — хранитель экрана, экранная заставка
+
+script [skrɪpt] — скрипт
+
+scroll bar [skrəʊl bɑː] — [полоса прокрутки](https://ru.wikipedia.org/wiki/%D0%BF%D0%BE%D0%BB%D0%BE%D1%81%D0%B0_%D0%BF%D1%80%D0%BE%D0%BA%D1%80%D1%83%D1%82%D0%BA%D0%B8)
+
+scroll [skrəʊl] — прокрутка
+
+search engine [sɜːʧ ˈenʤɪn] — [поисковая машина](https://ru.wikipedia.org/wiki/%D0%BF%D0%BE%D0%B8%D1%81%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F_%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%B0)
+
+segment [ˈsegmənt] — сегмент
+
+select [sɪˈlekt] — выбрать
+
+serial number [ˈsɪərɪəl ˈnʌmbə] — регистрационный номер
+
+server [ˈsɜːvə] — сервер
+
+set [set] — набор, установить
+
+shareware [ˈʃeəweər]— условно-бесплатное программное обеспечение
+
+sign off [saɪn ɒf] — выйти, отписаться
+
+sign on [saɪn ɒn] — войдите в систему, подписаться
+
+small capitals [smɔːl ˈkæpɪtl] — малые заглавные буквы
+
+small letter [smɔːl ˈletə] — [строчная буква](https://ru.wikipedia.org/wiki/%D0%BD%D0%B8%D0%B6%D0%BD%D0%B8%D0%B9_%D1%80%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80)
+
+smiley face [ˈsmaɪlɪ feɪs] — смайлик
+
+snapshot [ˈsnæpʃɒt]— снимок
+
+software [ˈsɒftweə] — программное обеспечение
+
+source code [sɔːs kəʊd] — исходный текст
+
+spam [spæm] — спам
+
+spreadsheet program [ˈspredʃiːt ˈprəʊgræm] — программа для работы с электронными таблицами
+
+storage area [ˈstɔːrɪʤ ˈe(ə)rɪə] — область хранения
+
+storage [ˈstɔːrɪʤ] — хранение, место хранения
+
+string (characters) — последовательность (характеры)
+
+style (face) [staɪl (feɪs)]— стиль (лицо)
+
+system [ˈsɪstɪm] — [система](https://ru.wikipedia.org/wiki/%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0)
+
+table [teɪbl] - [стол](https://ru.wikipedia.org/wiki/%D1%81%D1%82%D0%BE%D0%BB) 
+
+tabulation [tæbjʊˈleɪʃn] — табулирование
+
+tabulator [ˈtæbjʊleɪtə] — [табулятор](https://ru.wikipedia.org/wiki/%D1%82%D0%B0%D0%B1%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80)
+
+tag [tæg] — тег, метка
+
+temporary [ˈtempərərɪ] — временный
+
+testing [ˈtestɪŋ] — тестирование
+
+text [tekst] (SMS [zəmz]) — текст [SMS](https://translate.yandex.ru/translate?url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FSMS&lang=en-ru&view=c&gcp=hzs000se5yff)
+
+text message [tekst ˈmesɪʤ] — текстовое сообщение
+
+theme [θiːm] — тема
+
+timer [ˈtaɪmə] — таймер
+
+tool bar [ˈtəʊlbɑːr] — [панель инструментов](https://translate.yandex.ru/translate?url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FToolbar&lang=en-ru&view=c&gcp=hzs000se5yff)
+
+transparency [trænˈspærənsɪ] — прозрачность
+
+tree [triː] — дерево
+
+true [truː] — верно, истинный
+
+TrueType font [ˈtruːɪtaɪp fɒnt] — Шрифт TrueType
+
+tutorial [tjuːˈtɔːrɪəl] — руководство, обучающая программа
+
+undelete [ʌndəˈlɪtɪ] — отменить удаление, восстановить
+
+undo [ʌnˈduː] — отменить действие, отменить
+
+unerase [unerase]— восстанавливать, отменить стирание
+
+uninstall [ʌnɪnˈstɔːl] — деинсталлировать, удалить
+
+unpack [ʌnˈpæk] — распаковать
+
+update [ʌpˈdeɪt] — обновление
+
+variable [ˈve(ə)rɪəb(ə)l] — переменная
+
+version [vɜːʃn] — версия
+
+Web page [web peɪʤ] — Веб-страница
+
+Web site [wɛb saɪt] — Вебсайт
+
+Web [web] — веб, Сеть
+
+weblog [ˈweblɒg] — [блог](https://ru.wikipedia.org/wiki/%D0%B1%D0%BB%D0%BE%D0%B3)
+
+webmaster [ˈwebmɑːstər] — [веб-мастер](https://translate.yandex.ru/translate?url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FWebmaster&lang=en-ru&view=c&gcp=hzs000se5yff)
+
+widget [ˈwɪʤɪt] — виджет
+
+window [ˈwɪndəʊ] — окно
+
+word processing [wɜːd ˈprəʊsesɪŋ] — обработка текста
+
+word processor [wɜːd ˈprəʊsesə] — [текстовой процессор](https://translate.yandex.ru/translate?url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FWord_processor&lang=en-ru&view=c&gcp=hzs000se5yff)
+
+write-only [raɪt-ˈəʊnlɪ] — только для записи
+
+WYSIWYG  [ˈwɪziwɪɡ] (What You See Is What You Get, «что видишь, то и получишь) — визуальный редактор
+
+zoom out [zuːm aʊt] — уменьшите масштаб

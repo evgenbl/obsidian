@@ -1,0 +1,41 @@
+---
+title: "Как говорить на занятиях"
+date: "2024-06-04"
+categories: [news, conversation]
+page-layout: full
+title-block-banner: false
+toc: true
+image: "lessons.jpg"
+---
+
+How to communicate in English in class [хау ту комюникейт ин инглиш ин класс]- Как общаться на занятиях
+
+May I come in? [мэй ай кам ин]? - Могу я войти? или Можно войти?
+
+Sorry for being late [сори фо биин лэйт] - Извините за опоздание
+
+May I join the class? [мэй ай джойн зэ клэс]? - Можно мне присоединиться к классу / группе?
+
+May I open / close the window? [мэй ай oупэн / клoус зэ виндoу]? - Можно мне открыть / закрыть окно?
+
+May I go out, please? [мей ай гoу aут,плиз]? - Можно выйти?
+
+What do we have to do now? [вот ду ви хэв ту ду нaу] - Что мы должны сейчас делать?
+
+Do we have to hand in this exercise? [ду ви хэв ту хэнд ин зис ексэсайз]? - Нам надо сдавать это упражнение?
+
+Do we have to write this down? [ду ви хэв ту райт зис дaун]? - Это надо записать?
+
+I don't understand. Could you repeat that, please? [ай дoнт андэстэнд.куд ю рэпит зэт,плиз]? - Я не понимаю. Вы не могли бы повторить?
+
+Can you explain it once more, please? [кэн ю иксплэйн ит ванс мо,плиз]? - Объясните еще раз, пожалуйста
+
+I'm ready. Shall I begin? [айм рэди.шэл ай бигин]? - Я готов. Можно начать?
+
+What does "..." mean in Russian? [вот даз "..." мин ин рашэн]? - Что это "..." означает по-русски?
+
+How do you say "..." in English? [хaу ду ю сэй "..." ин инглиш]? - Как сказать "..." по-английски?
+
+How do you spell that word? [хaу ду ю спэл зэт вод]? - Как это слово пишется?
+
+How is this word pronounced? [хaу из зис вод прэнaунст]? - Как произносится это слово?

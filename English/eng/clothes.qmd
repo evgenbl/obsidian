@@ -1,0 +1,89 @@
+---
+title: "Одежда"
+date: "2024-05-21"
+categories: [news, about_the_man]
+page-layout: full
+title-block-banner: false
+toc: true
+image: "clothes.jpg"
+---
+
+<mark>одежда - clothes [kləʊðz][клоутз], обувь - shoes [ʃuːz][шуиз]</mark>
+
+Belt [belt] — ремень
+
+Blouse [blaʊz] — [блузка](https://translate.yandex.ru/translate?url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FBlouse&lang=en-ru&view=c&gcp=aze000sduymk)
+
+Boots [buːts] — ботинки
+
+Cap [kæp] — кепка, кепи, фуражка, шапка
+
+Cardigan [ˈkɑːdɪgən] — кардиган, джемпер, кофта, жакет
+
+Coat [kəʊt] — пальто, куртка, пиджак,плащ
+
+Dress [dres] — платье, одежда
+
+Gloves [glʌvz]— перчатки, рукавицы
+
+Glove [glʌv] - перчатка, рукавица
+
+Hat [hæt] — шляпа
+
+Jacket [ˈʤækɪt] — пиджак, жакет, куртка
+
+Jeans [ʤiːnz] — джинсы, джинсовые брюки
+
+Jumper [ˈʤʌmpə] — джемпер
+
+Mini-skirt [ˈmɪnɪ-skɜːt]— мини-юбка
+
+Overalls [ˈəʊvərɔːl] — комбинезон
+
+Overcoat [ˈəʊvəkəʊt] — пальто
+
+Pajamas [pəˈʤɑːməz] — [пижама](https://ru.wikipedia.org/wiki/%D0%BF%D0%B8%D0%B6%D0%B0%D0%BC%D0%B0)
+
+Pants [pænts]— брюки, штаны, кальсоны, подштаники
+
+Pantyhose [ˈpæntɪhəʊz] — [колготки](https://ru.wikipedia.org/wiki/%D0%BA%D0%BE%D0%BB%D0%B3%D0%BE%D1%82%D0%BA%D0%B8)
+
+Raincoat [ˈreɪnkəʊt] — плащ
+
+Scarf [skɑːf] — [шарф](https://translate.yandex.ru/translate?url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FScarf&lang=en-ru&view=c&gcp=aze000sduymk)
+
+Shirt [ʃɜːt]— рубашка
+
+Shoes [ʃuːz]— обувь
+
+Shorts [ʃɔːts] — шорты
+
+Skirt [skɜːt]— юбка
+
+Slacks [slæks] — широкие брюки
+
+Slippers [ˈslɪpəz] — шлепанцы, домашние тапки
+
+Socks [sɒks] — носки
+
+Stockings [ˈstɒkɪŋz] — чулки
+
+Suit [sjuːt] — костюм
+
+Sweat-shirt [swet-ʃɜːt] —Спортивная рубашка, толстовка
+
+Sweater [ˈswetə] — свитер
+
+T-shirt [tiː-ʃɜːt] — футболка
+
+Tie [taɪ] — галстук
+
+Trousers [ˈtraʊzəz] — [брюки](https://translate.yandex.ru/translate?url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FTrousers&lang=en-ru&view=c&gcp=aze000sduymk)
+
+Underclothes [ˈʌndəkləʊðz] — нижнее белье
+
+Underpants [ˈʌndəpænts] — [трусы](https://translate.yandex.ru/translate?url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FUnderpants&lang=en-ru&view=c&gcp=aze000sduymk)
+
+Undershirt [ˈʌndəʃɜːt] — [майка](https://ru.wikipedia.org/wiki/%D0%BC%D1%83%D0%B6%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D0%BE%D1%80%D0%BE%D1%87%D0%BA%D0%B0)
+
+Vest [vest] — жилет

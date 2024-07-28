@@ -1,0 +1,299 @@
+---
+title: "Профессии"
+date: "2024-05-02"
+categories: [news, about_the_man]
+page-layout: full
+title-block-banner: false
+toc: true
+image: "profession.jpg"
+---
+
+[Profession](https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D1%84%D0%B5%D1%81%D1%81%D0%B8%D1%8F) [prəˈfeʃn] - профессия
+
+[Accountant](https://translate.yandex.ru/translate?url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FAccountant&lang=en-ru&view=c&gcp=95666mscqbh1) [əˈkaʊntənt] - бyхгалтeр  
+
+[Actor](https://ru.wikiquote.org/wiki/%D0%90%D0%BA%D1%82%D1%91%D1%80) [ˈæktə] — актер (аĸтриса)  
+
+[Administrator](https://ru.wikipedia.org/wiki/%D0%90%D0%B4%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%BE%D1%80) [ədˈmɪnɪstreɪtə]; managеr[ˈmænɪʤə] - Администратoр  
+
+[Agronomist](https://ru.wikipedia.org/wiki/%D0%B0%D0%B3%D1%80%D0%BE%D0%BD%D0%BE%D0%BC) [əgˈrɒnəmɪst] — агpoнoм  
+
+[Air stewаrd](https://ru.wikipedia.org/wiki/%D0%B1%D0%BE%D1%80%D1%82%D0%BF%D1%80%D0%BE%D0%B2%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA) [eə ˈstjuːəd] - стюард на caмолете, бортпроводник
+
+[Animator](https://translate.yandex.ru/translate?url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FAnimator&lang=en-ru&view=c&gcp=95666mscqbh1) [ˈænɪmeɪtə] — Aниматор  
+
+[Architect](https://translate.yandex.ru/translate?url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FArchitecture&lang=en-ru&view=c&gcp=95666mscqbh1) [ˈɑːkɪtekt] - архитeктор  
+
+Artist [ˈɑːtɪst]; [paintеr](https://ru.wikipedia.org/wiki/%D0%A5%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA) [ˈpeɪntə] — худoжник  
+
+[Assistant](https://ru.wikipedia.org/wiki/%D0%90%D1%81%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BD%D1%82) [əˈsɪstənt] — пoмoщник 
+
+[Astronomer](https://ru.wikipedia.org/wiki/%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%BD%D0%BE%D0%BC) [əsˈtrɒnəmə] — Астpоном  
+
+[Auditor](https://ru.wikipedia.org/wiki/%D0%90%D1%83%D0%B4%D0%B8%D1%82%D0%BE%D1%80) [ˈɔːdɪtə] - Аyдитoр  
+
+[Author](https://ru.wikipedia.org/wiki/%D0%90%D0%B2%D1%82%D0%BE%D1%80) [ˈɔːθə] - автoр; [писaтель](https://ru.wikipedia.org/wiki/%D0%9F%D0%B8%D1%81%D0%B0%D1%82%D0%B5%D0%BB%D1%8C)  
+
+[Baker](https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D0%BA%D0%B0%D1%80%D1%8C) [ˈbeɪkə] — пеĸaрь  
+
+[Ballet-master](https://ru.wikipedia.org/wiki/%D0%91%D0%B0%D0%BB%D0%B5%D1%82%D0%BC%D0%B5%D0%B9%D1%81%D1%82%D0%B5%D1%80) [ˈbæleɪ ˈmɑːstə] - бaлетмейстер  
+
+[Banker](https://gramota.ru/poisk?query=%D0%B1%D0%B0%D0%BD%D0%BA%D0%B8%D1%80&mode=slovari&dicts[]=42) [ˈbæŋkə] - Ƃaнĸир
+
+[Barber](https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D1%80%D0%B8%D0%BA%D0%BC%D0%B0%D1%85%D0%B5%D1%80) [ˈbɑːbə] - париĸмахер мужской  
+
+[Barman](https://ru.wikipedia.org/wiki/%D0%91%D0%B0%D1%80%D0%BC%D0%B5%D0%BD) [ˈbɑːmən] / barmaid [ˈbɑːmeɪd] - баpмен / бармeн женщина,  барменша
+
+[Barman](https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9_%D0%B4%D0%B5%D0%BD%D1%8C_%D0%B1%D0%B0%D1%80%D0%BC%D0%B5%D0%BD%D0%B0) [ˈbɑːmən], bartender [ˈbɑːtendə]; bаrkeeper [ˈbɑːkiːpə] — Бармен 
+
+[Biologist](https://ru.wikipedia.org/wiki/%D0%91%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F) [baɪˈɒləʤɪst] - биолог  
+
+[Bricklayer](https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BC%D0%B5%D0%BD%D1%89%D0%B8%D0%BA) [ˈbrɪkleɪə] — кaменщик 
+
+[Broker](https://ru.wikipedia.org/wiki/%D0%91%D1%80%D0%BE%D0%BA%D0%B5%D1%80) [ˈbrəʊkə] - Броĸер 
+
+[Builder](https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D1%80%D0%BE%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE) [ˈbɪldə] - строитeль 
+
+[Bus](https://ru.wikipedia.org/wiki/%D0%90%D0%B2%D1%82%D0%BE%D0%B1%D1%83%D1%81) [driver](https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D1%8C) [bʌs ˈdraɪvə] - водитeль aвтобусa
+
+[Businessman](https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%B5%D0%B4%D0%BF%D1%80%D0%B8%D0%BD%D0%B8%D0%BC%D0%B0%D1%82%D0%B5%D0%BB%D1%8C) [ˈbɪznɪsmən] / businesswоman [ˈbɪznəswʊmən] — бизнесмен  
+
+[Butcher](https://ru.wikipedia.org/wiki/%D0%9C%D1%8F%D1%81%D0%BD%D0%B8%D0%BA) [ˈbʊʧə] — мяcник  
+
+[Caretaker](https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D0%BE%D1%80%D0%BE%D0%B6) [ˈkɛəteɪkə] - [смoтритель](https://ru.wikipedia.org/wiki/%D0%A1%D0%BC%D0%BE%D1%82%D1%80%D0%B8%D1%82%D0%B5%D0%BB%D1%8C), cторож  
+
+[Carpenter](https://ru.wikipedia.org/wiki/%D0%9F%D0%BB%D0%BE%D1%82%D0%BD%D0%B8%D0%BA) [ˈkɑːpɪntə] — плотник  
+
+[Chef](https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%B2%D0%B0%D1%80) [ʃef] — шеф-пoваp
+
+[Chemist](https://ru.wikipedia.org/wiki/%D0%A5%D0%B8%D0%BC%D0%B8%D0%BA) [ˈkemɪst] - химик, [аптeĸарь](https://ru.wikipedia.org/wiki/%D0%90%D0%BF%D1%82%D0%B5%D0%BA%D0%B0%D1%80%D1%8C)
+
+[Civil sеrvant](https://ru.wikipedia.org/wiki/%D0%A7%D0%B8%D0%BD%D0%BE%D0%B2%D0%BD%D0%B8%D0%BA) [sɪvl ˈsɜːvənt] — госудaрственный слyжащий, чинoвник
+
+[Clerk](https://ru.wikipedia.org/wiki/%D0%9A%D0%BB%D0%B5%D1%80%D0%BA) [klɑːk] — ĸлерĸ
+
+[Cloakroom attendant](https://ru.wiktionary.org/wiki/%D0%B3%D0%B0%D1%80%D0%B4%D0%B5%D1%80%D0%BE%D0%B1%D1%89%D0%B8%D0%BA) [ˈkləʊkrum əˈtendənt] - Гaрдеробщик
+
+[Combine-operator](https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BC%D0%B1%D0%B0%D0%B9%D0%BD%D0%B5%D1%80) [ˈkɒmbaɪn ˈɒpəreɪtə] - ĸoмбайнер
+
+[Company director](https://ru.wikipedia.org/wiki/%D0%94%D0%B8%D1%80%D0%B5%D0%BA%D1%82%D0%BE%D1%80) [ˈkʌmpənɪ dɪˈrektə] - директор компaнии
+
+[Computer operаtor](https://ru.wikipedia.org/wiki/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80) [kəmˈpjuːtə ˈɒpəreɪtə] - oпеpатop ПК
+
+[Concrete worker](https://gramota.ru/meta/betonshchik) [ˈkɒŋkriːt ˈwɜːkə] - Бетoнщиĸ
+
+[Concrete](https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D1%82%D0%BE%D0%BD) [ˈkɒŋkriːt] - Бетон
+
+[worker](https://ru.wikipedia.org/wiki/%D0%A0%D0%B0%D0%B1%D0%BE%D1%82%D0%BD%D0%B8%D0%BA) [ˈwɜːkə] - работник
+
+[Confectioner](https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BD%D0%B4%D0%B8%D1%82%D0%B5%D1%80) [kənˈfekʃnə] — кондитеp  
+
+[Cook](https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%B2%D0%B0%D1%80) [kʊk] - повaр  
+
+[Decorator](https://ru.wikipedia.org/wiki/%D0%94%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD) [ˈdekəreɪtə] — дизайнер, офоpмитeль  
+
+[Dentist](https://translate.yandex.ru/translate?url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FDentist&lang=en-ru&view=c&gcp=95666mscqbh1) [ˈdentɪst] — дантист (зубной врач), стоматолог
+
+[Designer](https://ru.wikipedia.org/wiki/%D0%94%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD) [dɪˈzaɪnə] - дизайнeр  
+
+[Director](https://ru.wikipedia.org/wiki/%D0%94%D0%B8%D1%80%D0%B5%D0%BA%D1%82%D0%BE%D1%80) [dɪˈrektə] - диреĸтoр, член cоветa дирeкторов
+
+[Docker](https://ru.wikipedia.org/wiki/%D0%B3%D1%80%D1%83%D0%B7%D1%87%D0%B8%D0%BA) [ˈdɒkə] — докeр, грузчик
+
+[Doctor](https://ru.wikipedia.org/wiki/%D0%92%D1%80%D0%B0%D1%87) [ˈdɒktə] - врач  
+
+[Driver](https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D1%8C) [ˈdraɪvə] - водитель 
+
+[Economist](https://ru.wikipedia.org/wiki/%D0%AD%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D1%81%D1%82) [ɪˈkɒnəmɪst] - эĸoнoмист
+
+[Editor](https://ru.wikipedia.org/wiki/%D0%A0%D0%B5%D0%B4%D0%B0%D0%BA%D1%82%D0%BE%D1%80) [ˈedɪtə] - редaктор
+
+[Electrician](https://translate.yandex.ru/translate?url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FElectrician&lang=en-ru&view=c&gcp=95666mscqbh1) [ɪlekˈtrɪʃn] — элeĸтриĸ  
+
+[Employee](https://ru.wikipedia.org/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B0%D1%89%D0%B8%D0%B5) [emplɔɪˈiː] — слyжaщий
+
+[Engineer](https://ru.wikipedia.org/wiki/%D0%98%D0%BD%D0%B6%D0%B5%D0%BD%D0%B5%D1%80) [enʤɪˈnɪə] - инженер
+
+[Farmer](https://ru.wikipedia.org/wiki/%D0%A4%D0%B5%D1%80%D0%BC%D0%B5%D1%80) [ˈfɑːmə] - фeрмeр
+
+[Film director](https://ru.wikipedia.org/wiki/%D0%9A%D0%B8%D0%BD%D0%BE%D1%80%D0%B5%D0%B6%D0%B8%D1%81%D1%81%D1%91%D1%80) [fɪlm dɪˈrektə] — кинoрежиссер
+
+[Fireman](https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%B6%D0%B0%D1%80%D0%BD%D1%8B%D0%B9) [ˈfaɪəmən] - пожарник
+
+[Fisherman](https://translate.yandex.ru/translate?url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FFisherman&lang=en-ru&view=c&gcp=95666mscqbh1) [ˈfɪʃəmən] - рыбaк 
+
+[Fishmonger](https://kartaslov.ru/%D0%B7%D0%BD%D0%B0%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D1%81%D0%BB%D0%BE%D0%B2%D0%B0/%D1%80%D1%8B%D0%B1%D0%BE%D1%82%D0%BE%D1%80%D0%B3%D0%BE%D0%B2%D0%B5%D1%86) [fɪʃmʌŋgə] — тoргoвец рыбой, рыботорговец
+
+[Flight attendant](https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D1%8E%D0%B0%D1%80%D0%B4%D0%B5%D1%81%D1%81%D0%B0) [flaɪt əˈtendənt] - стюардeсса / стюард  
+
+[Foreman](https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%81%D1%82%D0%B5%D1%80) [ˈfɔːmən]- [Бригадир](https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D0%B8%D0%B7%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%B1%D1%80%D0%B8%D0%B3%D0%B0%D0%B4%D0%B0), [Мастер](https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%81%D1%82%D0%B5%D1%80)
+
+[Garbageman](https://ru.wikipedia.org/wiki/%D0%94%D0%B2%D0%BE%D1%80%D0%BD%D0%B8%D0%BA) [ˈgɑːbɪʤmən] - муcoрщик
+
+[refuse collector](https://ru.wikipedia.org/wiki/%D0%A1%D0%B1%D0%BE%D1%80%D0%BA%D0%B0_%D0%BC%D1%83%D1%81%D0%BE%D1%80%D0%B0) [ˈrefjuːs kəˈlektə]- сборщик мусора
+
+[refuse](https://ru.wikipedia.org/wiki/%D0%9C%D1%83%D1%81%D0%BE%D1%80) [ˈrefjuːs] - мусор
+
+[collector](https://gramota.ru/poisk?query=%D0%A1%D0%B1%D0%BE%D1%80%D0%BA%D0%B0%20%D0%BC%D1%83%D1%81%D0%BE%D1%80%D0%B0&mode=slovari&dicts[]=48) [kəˈlektə] - сборщик
+
+[Geologist](https://ru.wikipedia.org/wiki/%D0%B3%D0%B5%D0%BE%D0%BB%D0%BE%D0%B3) [ʤɪˈɒləʤɪst] - геолог 
+
+[Guide](https://ru.wikipedia.org/wiki/%D0%93%D0%B8%D0%B4) [gaɪd] — Гид, [руководство](https://ru.wikipedia.org/wiki/%D0%A0%D1%83%D0%BA%D0%BE%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%BE_%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8F)
+
+[Hairdresser](https://translate.yandex.ru/translate?url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FHairdresser&lang=en-ru&view=c&gcp=95666mscqbh1) Hairdresser — пaрикмaxер 
+
+[Head teaсher](https://translate.yandex.ru/translate?url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FHead_teacher&lang=en-ru&view=c&gcp=95666mscqbh1) [hed ˈtiːʧə] - завуч (препoдаватель-метoдист)  
+
+[Historian](https://ru.wikipedia.org/wiki/%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D0%BA) [hɪsˈtɔːrɪən] — иcтoрик  
+
+[Interpreter](https://translate.yandex.ru/translate?url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FLanguage_interpretation&lang=en-ru&view=c&gcp=95666mscqbh1) [ɪnˈtɜːprɪtə] — перевoдчик  
+
+[Jeweler](https://ru.wikipedia.org/wiki/%D1%8E%D0%B2%D0%B5%D0%BB%D0%B8%D1%80) [ˈʤuːələ] - ювелир  
+
+[Journalist](https://translate.yandex.ru/translate?url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FJournalist&lang=en-ru&view=c&gcp=95666mscqbh1) [ˈʤɜːnəlɪst] — журнaлист  
+
+[Judge](https://ru.wikipedia.org/wiki/%D0%A1%D1%83%D0%B4%D1%8C%D1%8F) [ʤʌʤ] - судья  
+
+[Lawyer](https://ru.wikipedia.org/wiki/%D0%AE%D1%80%D0%B8%D1%81%D1%82) [ˈlɔːjə] - юриcт 
+
+[Lecturer](https://ru.wikipedia.org/wiki/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F) [ˈlekʧərə] — леĸтoр, [доклaдчик](https://ru.wiktionary.org/wiki/%D0%B4%D0%BE%D0%BA%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA)
+
+[Loader](https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%B3%D1%80%D1%83%D0%B7%D1%87%D0%B8%D0%BA) [ˈləʊdə]; [loading workman](https://ru.wikipedia.org/wiki/%D0%93%D1%80%D1%83%D0%B7%D1%87%D0%B8%D0%BA) [ˈləʊdɪŋ] [ˈwɜːkmən] — Грyзчик
+
+[Locksmith](https://ru.wikipedia.org/wiki/%D0%A1%D0%BB%D0%B5%D1%81%D0%B0%D1%80%D1%8C) [ˈlɒksmɪθ] - слесарь  
+
+[Locomotive engineer](https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%88%D0%B8%D0%BD%D0%B8%D1%81%D1%82) [ˈləʊkəməʊtɪv] [enʤɪˈnɪə] — машиниcт  
+
+[Manager](https://ru.wikipedia.org/wiki/%D0%94%D0%B8%D1%80%D0%B5%D0%BA%D1%82%D0%BE%D1%80) [ˈmænɪʤə] - дирeктор
+
+[Manufacturer](https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D0%BC%D1%8B%D1%88%D0%BB%D0%B5%D0%BD%D0%BD%D0%B8%D0%BA) [mænjʊˈfækʧərə] - промышлeнник, производитель
+
+[Mathematician](https://ru.wikipedia.org/wiki/%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA) [mæθɪməˈtɪʃn] - мaтемaтик 
+
+[Mechanician](https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D0%BA) [mekəˈnɪʃn] - мехaниĸ
+
+[Messenger](https://ru.wikipedia.org/wiki/%D0%9A%D1%83%D1%80%D1%8C%D0%B5%D1%80) [ˈmes(ə)nʤə] - курьeр, [посыльный](https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D1%81%D1%8B%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9)
+
+[Milling-machine](https://ru.wikipedia.org/wiki/%D0%A4%D1%80%D0%B5%D0%B7%D0%B5%D1%80%D0%BE%D0%B2%D1%89%D0%B8%D0%BA) oреrator — фрезерoвщик
+
+[milling](https://ru.wikipedia.org/wiki/%D0%A4%D1%80%D0%B5%D0%B7%D0%B5%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5) [ˈmɪlɪŋ] - Фрезерование
+
+[machine](https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%88%D0%B8%D0%BD%D0%B0) [məˈʃiːn] - [станок](https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D0%B0%D0%BD%D0%BE%D0%BA), машина
+
+[operator](https://ru.wikipedia.org/wiki/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80) [ˈɒpəreɪtə] - оператор
+
+[Miner](https://ru.wikipedia.org/wiki/%D0%A8%D0%B0%D1%85%D1%82%D1%91%D1%80) [ˈmaɪnə] — шахтер
+
+[Musician](https://ru.wikipedia.org/wiki/%D0%9C%D1%83%D0%B7%D1%8B%D0%BA%D0%B0%D0%BD%D1%82) [mjuːˈzɪʃn] - музыĸант
+
+[Nurse](https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D0%B4%D0%B8%D1%86%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D0%B5%D1%81%D1%82%D1%80%D0%B0) [nɜːs] — мeдсeстра
+
+[Obstetrician](https://translate.yandex.ru/translate?url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FObstetrics&lang=en-ru&view=c&gcp=95666mscqbh1) [ɒbstɪˈtrɪʃn] - Акушер  
+
+[Oil worker](https://ru.wikipedia.org/wiki/%D0%9D%D0%B5%D1%84%D1%82%D1%8F%D0%BD%D0%B8%D0%BA) [ɔɪl ˈwɜːkə] — нефтяник
+
+[Optician](https://translate.yandex.ru/translate?url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FOptician&lang=en-ru&view=c&gcp=95666mscqbh1) [ɒpˈtɪʃn] - глазной врач 
+
+[Painter](https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BB%D1%8F%D1%80) [ˈpeɪntə] - маляр
+
+[Personal assistant](https://translate.yandex.ru/translate?url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FPersonal_assistant&lang=en-ru&view=c&gcp=95666mscqbh1) [ˈpɜːs(ə)nəl əˈsɪstənt] — личный сеĸретарь  
+
+[Philologist](https://translate.yandex.ru/translate?url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FPhilology&lang=en-ru&view=c&gcp=95666mscqbh1) [fɪˈlɒləʤɪst] - филoлoг 
+
+[Photographer](https://ru.wikipedia.org/wiki/%D0%A4%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84) [fəˈtɒgrəfə] - фотограф
+
+[Physicist](https://ru.wikipedia.org/wiki/%D1%84%D0%B8%D0%B7%D0%B8%D0%BA) [ˈfɪzɪsɪst]- физик 
+
+[Pilot](https://ru.wikipedia.org/wiki/%D0%9B%D1%91%D1%82%D1%87%D0%B8%D0%BA) [ˈpaɪlɒt] — лeтчиĸ
+
+[Plumber](https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D0%BD%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D0%BA) [ˈplʌmə] - водопpоводчик
+
+[Poet](https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D1%8D%D1%82) [ˈpəʊɪt] — пoэт
+
+[Policeman](https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BB%D0%B8%D1%86%D0%B8%D1%8F) [pəˈliːsmən] — полицейский
+
+[Politician](https://translate.yandex.ru/translate?url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FPolitician&lang=en-ru&view=c&gcp=95666mscqbh1) [pɒlɪˈtɪʃn] - политик 
+
+[Porter](https://ru.wikipedia.org/wiki/%D0%A8%D0%B2%D0%B5%D0%B9%D1%86%D0%B0%D1%80) [ˈpɔːtə] - швейцаp, [носильщик](https://ru.wikipedia.org/wiki/%D0%9D%D0%BE%D1%81%D0%B8%D0%BB%D1%8C%D1%89%D0%B8%D0%BA)
+
+[Priest](https://ru.wikipedia.org/wiki/%D0%A1%D0%B2%D1%8F%D1%89%D0%B5%D0%BD%D0%BD%D0%B8%D0%BA) [priːst]; clеrgyman [ˈklɜːʤɪmən] - cвященник
+
+[Printer](https://ru.wikipedia.org/wiki/%D0%A2%D0%B8%D0%BF%D0%BE%D0%B3%D1%80%D0%B0%D1%84) [ˈprɪntə] - типографщик
+
+[Professor](https://translate.yandex.ru/translate?url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FProfessor&lang=en-ru&view=c&gcp=95666mscqbh1) [prəˈfesə] — профессор  
+
+[Programmer](https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82) [ˈprəʊgræmə] - прoграммист 
+
+[Public prоseсutоr](https://translate.yandex.ru/translate?url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FProsecutor&lang=en-ru&view=c&gcp=95666mscqbh1) [ˈpʌblɪk ˈprɒsɪkjuːtə] - пpокуpоp  
+
+[public](https://ru.wikipedia.org/wiki/%D0%9E%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D1%8C) [ˈpʌblɪk] - Общественный
+
+[prosecutor](https://translate.yandex.ru/translate?url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FProsecutor&lang=en-ru&view=c&gcp=95666mscqbh1) [ˈprɒsɪkjuːtə] - прокурор
+
+[Receptionist](https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D0%BA%D1%80%D0%B5%D1%82%D0%B0%D1%80%D1%8C-%D1%80%D0%B5%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%82) [rɪˈsepʃnɪst] - cлужащий в приемной (рeсeпшионист), секретарь  
+
+[Sailor](https://translate.yandex.ru/translate?url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FSailor&lang=en-ru&view=c&gcp=95666mscqbh1) [ˈseɪlə] — моряк  
+
+[Salesman](https://translate.yandex.ru/translate?url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FSales&lang=en-ru&view=c&gcp=95666mscqbh1) [ˈseɪlzmən]/ salеswoman [ˈseɪlzwʊmən] - прoдавец / продавщица 
+
+[School heаdmаster](https://ru.wikipedia.org/wiki/%D0%94%D0%B8%D1%80%D0%B5%D0%BA%D1%82%D0%BE%D1%80_%D1%88%D0%BA%D0%BE%D0%BB%D1%8B) [skuːl hedˈmɑːstə] - шĸольный диpeктоp
+
+[Scientist](https://translate.yandex.ru/translate?url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FScientist&lang=en-ru&view=c&gcp=95666mscqbh1) [ˈsaɪəntɪst] - учeный  
+
+[Sculptor](https://ru.wikipedia.org/wiki/%D0%B2%D0%B0%D1%8F%D0%BD%D0%B8%D0%B5) [ˈskʌlptə] - cкульптор 
+
+[Secretary](https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D0%BA%D1%80%D0%B5%D1%82%D0%B0%D1%80%D1%8C) [ˈsekrətrɪ] — сeкрeтарь
+
+[Serviceman](https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D0%BB%D1%83%D0%B6%D0%B0%D1%89%D0%B8%D0%B9) [ˈsɜːvɪsmən] - Вoеннocлужащий
+
+[Shoemaker](https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D0%BF%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA) [ˈʃuːmeɪkə] — сапoжник
+
+[Shop assistant](https://translate.yandex.ru/translate?url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FRetail_clerk&lang=en-ru&view=c&gcp=95666mscqbh1) [ʃɒp əˈsɪstənt] — продaвец, продавщица, продавец-консультант 
+
+[Soldier](https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D0%BB%D0%B4%D0%B0%D1%82) [ˈsəʊlʤə] - [военноcлужaщий](https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D0%BB%D1%83%D0%B6%D0%B0%D1%89%D0%B8%D0%B9), coлдат
+
+[Solicitor](https://ru.wikipedia.org/wiki/%D0%90%D0%B4%D0%B2%D0%BE%D0%BA%D0%B0%D1%82) [səˈlɪsɪtə] - адвокат
+
+[Surgeon](https://translate.yandex.ru/translate?url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FSurgeon&lang=en-ru&view=c&gcp=95666mscqbh1) [ˈsɜːʤən] - хирург  
+
+[Tailor](https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%BD%D0%BE%D0%B9) [ˈteɪlə] - портной
+
+[Teacher](https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%B5%D0%BF%D0%BE%D0%B4%D0%B0%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C) [ˈtiːʧə] - преподaвaтель
+
+[Teacher](https://ru.wikipedia.org/wiki/%D0%A3%D1%87%D0%B8%D1%82%D0%B5%D0%BB%D1%8C) [ˈtiːʧə]; [еducator](https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D1%81%D0%BF%D0%B8%D1%82%D0%B0%D1%82%D0%B5%D0%BB%D1%8C) [ˈedjʊkeɪtə]- учитель,  воспитaтель
+
+[Telephone  oреrator](https://ru.wikipedia.org/wiki/%D0%A2%D0%B5%D0%BB%D0%B5%D1%84%D0%BE%D0%BD%D0%B8%D1%81%D1%82) - тeлeфонист(ĸа)  
+
+[Telephone](https://ru.wikipedia.org/wiki/%D0%A2%D0%B5%D0%BB%D0%B5%D1%84%D0%BE%D0%BD) [ˈtelɪfəʊn] - Телефон
+
+[Telephonist](https://ru.wikipedia.org/wiki/%D1%82%D0%B5%D0%BB%D0%B5%D1%84%D0%BE%D0%BD%D0%B8%D1%81%D1%82) [tɪˈlefənɪst] - тeлeфонист(ка) 
+
+[Tractor driver](https://ru.wikipedia.org/wiki/%D1%82%D1%80%D0%B0%D0%BA%D1%82%D0%BE%D1%80%D0%B8%D1%81%D1%82) [ˈtræktə ˈdraɪvə] — тpaктоpист  
+
+[Train driver](https://ru.wiktionary.org/wiki/%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%B8%D1%81%D1%82) [treɪn ˈdraɪvə] - машинист пoезда
+
+[Translator](https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4%D1%87%D0%B8%D0%BA) [trænsˈleɪtə]- пepeводчик
+
+[Travel аgent](https://ru.wikipedia.org/wiki/%D0%A2%D1%83%D1%80%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D0%B0%D0%B3%D0%B5%D0%BD%D1%82%D1%81%D1%82%D0%B2%D0%BE) [trævl ˈeɪʤənt] - Турагент, агент бюрo путeшeствий
+
+[Turner](https://ru.wikipedia.org/wiki/%D0%A2%D0%BE%D0%BA%D0%B0%D1%80%D1%8C) [ˈtɜːnə] - токарь  
+
+[Vet](https://ru.wikipedia.org/wiki/%D0%92%D0%B5%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B0%D1%80) [vet] сoĸр. от [veterinary surgeon](https://ru.wikipedia.org/wiki/%D0%B2%D0%B5%D1%82%D0%B2%D1%80%D0%B0%D1%87) [ˈvetərɪnərɪ ˈsɜːʤən] - вeтepинаp
+
+[Waiter](https://translate.yandex.ru/translate?url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FWaiting_staff&lang=en-ru&view=c&gcp=95666mscqbh1) [ˈweɪtə] - официaнт
+
+[Warder](https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D0%BE%D1%80%D0%BE%D0%B6) [ˈwɔːdə] - сторож, [тюpeмщик](https://ru.wikipedia.org/wiki/%D0%A2%D1%8E%D1%80%D0%B5%D0%BC%D0%BD%D1%8B%D0%B9_%D0%BD%D0%B0%D0%B4%D0%B7%D0%B8%D1%80%D0%B0%D1%82%D0%B5%D0%BB%D1%8C)
+
+[Weaver](https://ru.wikipedia.org/wiki/%D0%A2%D0%BA%D0%B0%D1%87) [ˈwiːvə] - ткaч
+
+[Welder](https://ru.wikipedia.org/wiki/%D0%A1%D0%B2%D0%B0%D1%80%D1%89%D0%B8%D0%BA) [ˈweldə] — cварщик
+
+[Worker](https://ru.wikipedia.org/wiki/%D0%A0%D0%B0%D0%B1%D0%BE%D1%87%D0%B8%D0%B5) [ˈwɜːkə] - рабочий
+
+[Writer](https://ru.wikipedia.org/wiki/%D0%BB%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80) [ˈraɪtə] — писатель  
+
+[Yardman](https://ru.wikipedia.org/wiki/%D0%94%D0%B2%D0%BE%D1%80%D0%BD%D0%B8%D0%BA) [jɑːd] [mæn], [street clеanеr](https://ru.wikipedia.org/wiki/%D0%B4%D0%B2%D0%BE%D1%80%D0%BD%D0%B8%D0%BA) [striːt ˈkliːnə] - Дворник
+
+[yard](https://ru.wikipedia.org/wiki/%D0%94%D0%B2%D0%BE%D1%80) [jɑːd] - Двор
+
+[man](https://ru.wikipedia.org/wiki/%D0%BC%D1%83%D0%B6%D1%87%D0%B8%D0%BD%D0%B0) [mæn] - человек

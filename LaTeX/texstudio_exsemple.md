@@ -1,0 +1,46 @@
+\documentclass[12pt,a4paper]{article}
+%\documentclass[a4paper, 12pt, oneside]{ncc}
+\usepackage[warn]{mathtext}          % русские буквы в формулах, с предупреждением
+\usepackage[T2A]{fontenc}            % внутренняя кодировка  TeX
+\usepackage[utf8x]{inputenc}         % кодовая страница документа
+\usepackage[english, russian]{babel} % локализация и переносы
+\usepackage{indentfirst}   % русский стиль: отступ первого абзаца раздела
+\usepackage{misccorr}      % точка в номерах заголовков
+\usepackage{cmap}          % русский поиск в pdf
+\usepackage{graphicx}      % Работа с графикой \includegraphics{}
+\usepackage{psfrag}        % Замена тагов на eps картинкаx
+\usepackage{caption2}      % Работа с подписями для фигур, таблиц и пр.
+\usepackage{soul}          % Разряженный текст \so{} и подчеркивание \ul{}
+\usepackage{soulutf8}      % Поддержка UTF8 в soul
+\usepackage{fancyhdr}      % Для работы с колонтитулами
+\usepackage{multirow}      % Аналог multicolumn для строк
+\usepackage{ltxtable}      % Микс tabularx и longtable
+\usepackage{paralist}      % Списки с отступом только в первой строчке
+%\usepackage{longtable}
+%\usepackage{tabularx}
+\usepackage[perpage]{footmisc} % Нумерация сносок на каждой странице с 1
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{floatflt}      % Узкие  плавающие  иллюстрации  в  <оборку>  производятся  с  помощью  окружения floatingfigure 
+
+% Задаем отступы: слева 30 мм, справа 10 мм, сверху до колонтитула 10 мм
+% снизу 25 мм
+%\usepackage[a4paper, top=10mm, left=30mm, right=10mm, bottom=25mm]{geometry}
+
+% Нумерация формул, картинок и таблиц по секциям
+
+%\numberwithin{equation}{section}
+%\numberwithin{table}{section}
+%\numberwithin{figure}{section}
+
+% % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % %
+
+\author{ииииии}
+\title{ииииии}
+\begin{document}
+        \maketitle
+сссссссссссссссссссссссссссс
+\end{document}
+
+

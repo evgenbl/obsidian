@@ -1,0 +1,95 @@
+*Высказать свое мнение*
+
+What are you driving at? — К чему ты клонишь?  
+
+What are you talking about? — О чём ты!  
+
+What for? — Зачем?  
+
+What of it? — И что из этого?  
+
+to one’s face — в лицо (сказать открыто)  
+
+up against — противостоять  
+
+Use your own judgement — Решай сам  
+
+You can take it from me — Можешь мне поверить  
+
+I don’t care — Меня не волнует  
+
+I have no idea — Понятия не имею  
+
+I mean it! — Я серьёзно  
+
+I wish I knew — Хотел бы я знать!  
+
+It doesn’t matter — Это не важно  
+
+It doesn’t make sense — Это не имеет смысла  
+
+It doesn’t prove a thing — Это ничего не доказывает  
+
+It’ s none of your business — Не твоё дело  
+
+It’s a lie — Это ложь  
+
+It’s all the same to me — Мне без разницы  
+
+It’s beside the point — Это не относится к вопросу  
+
+It’s new to me — Первый раз слышу  
+
+It’s out of place — Это неуместно  
+
+It’s up to you — Решай сам  
+
+It’s waste of time — Это трата времени  
+
+Let’s clear it up — Давай разберёмся.  
+
+Let’s drop the subject — Давай оставим эту тему  
+
+Mind one’s own business — Занимайся своим делом  
+
+no matter — не имеет значения  
+
+point of view — точка зрения  
+
+pro and con — за и против  
+
+say one’s say — высказать мнение  
+
+side against — принять противоположную сторону  
+
+So what? — Ну и что?  
+
+speak one’s mind — высказать своё мнение  
+
+stand one’s ground — сохранять своё мнение  
+
+stand to reason — иметь смысл, быть логичным следствием  
+
+take a side — принять сторону  
+
+take a stand — занять жёсткую позицию  
+
+take into account — принимать во внимание  
+
+That’s not the point — Это не относится к вопросу  
+
+That’s very well, but... — Это всё очень хорошо, но...
+
+to one's face — в лицо (сказать открыто)
+
+up against — противостоять
+
+Use your own judgement — Решай сам
+
+What of it? — И что из этого?
+
+Еat one's words — Взять слова обратно
+
+Enough of it — Довольно об этом
+
+go into details — Вдаваться в детали

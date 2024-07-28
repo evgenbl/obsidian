@@ -1,0 +1,99 @@
+---
+title: "Неправильные глаголы.Формы."
+date: "2024-04-15"
+categories: [news, irregular_verbs]
+page-layout: full
+title-block-banner: false
+toc: true
+image: "irregular_forms.jpg"
+---
+
+Формы неправильных глаголов
+
+------------------------------------------------------------------------
+
+### Все три формы – одинаковые
+
+|                     |                                                                   |                       |                 |
+|---------------------|-------------------------------------------------------------------|-----------------------|-----------------|
+| **I форма глагола** | **II форма глагола**                                              | **III форма глагола** | **Перевод**     |
+| cost \[cɔst\]       | cost \[cɔst\]                                                     | cost \[cɔst\]         | стоить          |
+| cut \[kʌt\]         | cut \[kʌt\]                                                       | cut \[kʌt\]           | резать          |
+| hurt \[hз:t\]       | hurt \[hз:t\]                                                     | hurt \[hз:t\]         | ушибить         |
+| hit \[hit\]         | hit \[hit\]                                                       | hit \[hit\]           | попадать в цель |
+| let \[let\]         | let \[let\]                                                       | let \[let\]           | позволять       |
+| put \[put\]         | put \[put\]                                                       | put \[put\]           | положить        |
+| read \[ri:d\]       | read \[red\] <br>(пишется одинаково, <br>произносится по-разному) | read \[red\]          | читать          |
+
+### Формы: I форма глагола и II форма глагола одинаковые
+
+|                     |                      |                       |                 |
+|---------------------|----------------------|-----------------------|-----------------|
+| **I форма глагола** | **II форма глагола** | **III форма глагола** | **Перевод**     |
+| feel \[fi:l\]       | felt \[felt\]        | felt \[felt\]         | чувствовать     |
+| build \[bild\]      | built \[bilt\]       | built \[bilt\]        | строить         |
+| keep \[ki:p\]       | kept \[kept\]        | kept \[kept\]         | содержать       |
+| leave \[li:v\]      | left \[left\]        | left \[left\]         | оставлять       |
+| lend \[lend\]       | lent \[lent\]        | lent \[lent\]         | занимать        |
+| lose \[lu:z\]       | lost \[lɔst\]        | lost \[lɔst\]         | терять          |
+| meet \[mi:t\]       | met \[met\]          | met \[met\]           | встречать       |
+| send \[send\]       | sent \[sent\]        | sent \[sent\]         | посылать        |
+| sleep \[sli:p\]     | slept \[slept\]      | slept \[slept\]       | спать           |
+| spend \[spend\]     | spent \[spent\]      | spent \[spent\]       | тратить         |
+| sit \[sit\]         | sat \[sæt\]          | sat \[sæt\]           | сидеть          |
+| get \[ get \]       | got \[gɔt\]          | got \[gɔt\]           | получать        |
+|                     |                      |                       |                 |
+| bring \[briŋ\]      | brought \[brɔ:t\]    | brought \[brɔ:t\]     | приносить       |
+| buy \[bai\]         | bought \[bɔ:t\]      | bought \[bɔ:t\]       | покупать        |
+| catch \[kætʃ\]      | caught \[kɔ:t\]      | caught \[kɔ:t\]       | ловить, хватать |
+| teach \[ti:tʃ\]     | taught \[tɔ:t\]      | taught \[tɔ:t\]       | учить           |
+| think \[θiŋk\]      | thought \[θɔ:t\]     | thought \[θɔ:t\]      | думать          |
+|                     |                      |                       |                 |
+| find \[faind\]      | found \[faund\]      | found \[faund\]       | находить        |
+| have \[hæv\]        | had \[hæd\]          | had \[hæd\]           | иметь           |
+| hear \[hiə\]        | heard \[hз:d\]       | heard \[hз:d\]        | слышать         |
+| hold \[hould\]      | held \[held\]        | held \[held\]         | держать         |
+| lead \[li:d\]       | led \[led\]          | led \[led\]           | вести           |
+| make \[meik\]       | made \[meid\]        | made \[meid\]         | производить     |
+| pay \[pei\]         | paid \[peid\]        | paid \[peid\]         | платить         |
+| say \[sei\]         | said \[sed\]         | said \[sed\]          | говорить        |
+| sell \[sel\]        | sold \[sould\]       | sold \[sould\]        | продавать       |
+| stand \[stænd\]     | stood \[stu:d\]      | stood \[stu:d\]       | стоять          |
+| tell \[tel\]        | told \[tould\]       | told \[tould\]        | рассказывать    |
+| win \[win\]         | won \[wʌn\]          | won \[wʌn\]           | выигрывать      |
+
+### Все формы разные
+
+|                     |                           |                          |               |
+|---------------------|---------------------------|--------------------------|---------------|
+| **I форма глагола** | **II форма глагола**      | **III форма глагола**    | **Перевод**   |
+| be \[bi:\]          | was \[wɔz\], were \[wз:\] | been \[bi:n\]            | быть          |
+| become \[bi:kʌm\]   | became \[bi:keim\]        | become\[bi:kʌm\]         | становиться   |
+| come \[kʌm\]        | came \[keim\]             | come \[kʌm\]             | приходить     |
+| do \[du:\]          | did \[did\]               | done \[dʌn\]             | делать        |
+| go \[gou\]          | went \[went\]             | gone \[gɔn\]             | идти          |
+|                     |                           |                          |               |
+| begin \[bi’gin\]    | began \[bi’gæn\]          | begun \[bi’gʌn\]         | начинать      |
+| drink \[driŋk\]     | drank \[dræŋk\]           | drunk \[drʌŋk\]          | пить          |
+| ring \[riŋ\]        | rang \[ræŋ\]              | rung \[rʌŋ\]             | звенеть       |
+| run \[rʌŋ\]         | ran \[ræŋ\]               | run \[rʌŋ\]              | бежать        |
+| swim \[swim\]       | swam \[swem\]             | swum \[swʌm\]            | плавать       |
+|                     |                           |                          |               |
+| break \[breik\]     | broke \[brouk\]           | broken \[‘brouk(e)n\]    | ломать        |
+| drive \[draiv\]     | drove \[drouv\]           | driven \[‘drivn\]        | водить        |
+| eat \[i:t\]         | ate \[et\]                | eaten \[‘i:tn\]          | есть          |
+| forget \[fə’get\]   | forgot \[fə’gɔt\]         | forgotten \[fə’gɔt(ə)n\] | забывать      |
+| give \[giv\]        | gave \[geiv\]             | given \[givn\]           | давать        |
+| freeze \[fri:z\]    | froze \[frouz\]           | frozen \[‘frouzn\]       | замерзать     |
+| ride \[raid\]       | rode \[roud\]             | ridden \[‘ridn\]         | ездить верхом |
+| see \[si:\]         | saw \[sɔ:\]               | seen \[si:n\]            | видеть        |
+| speak \[spi:k\]     | spoke \[spouk\]           | spoken \[‘spouk(e)n\]    | говорить      |
+| take \[teik\]       | took \[tuk\]              | taken \[‘teik(ə)n\]      | брать, взять  |
+| wear \[wɛə\]        | wore \[wɔ:\]              | worn \[wɔ:n\]            | носить        |
+| write \[rait\]      | wrote \[rout\]            | written \[‘ritn\]        | писать        |
+|                     |                           |                          |               |
+| blow \[blou\]       | blew \[blu:\]             | blown \[bloun\]          | дуть          |
+| fly \[flai\]        | flew \[flu:\]             | flown \[floun\]          | летать        |
+| know \[nou\]        | knew \[nju:\]             | known \[noun\]           | знать         |
+| show \[ʃəu\]        | showed \[ʃəud\]           | shown \[ʃəun\]           | показывать    |
+| throw \[θrəu\]      | threw \[θru:\]            | thrown \[θrəun\]         | бросать       |

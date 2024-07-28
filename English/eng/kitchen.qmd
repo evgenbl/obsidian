@@ -1,0 +1,268 @@
+---
+title: "кухня, продукты, посуда"
+date: "2024-06-05"
+categories: [news, dict]
+page-layout: full
+title-block-banner: false
+toc: true
+image: "kitchen.jpg"
+---
+kitchen [ˈkɪʧɪn], food [fuːd], dishes [ˈdɪʃɪz] - кухня, продукты, посуда
+
+### Посуда - dish [dɪʃ]
+
+dinnerware [ˈdɪnəweər] - столовая посуда
+
+gravy boat [ˈgreɪvɪ bəʊt] - [соусник](https://ru.wikipedia.org/wiki/%D1%81%D0%BE%D1%83%D1%81%D0%BD%D0%B8%D0%BA)
+
+cup [kʌp] - чашка
+
+teacup [ˈtiːkʌp] - [чайная чашка](https://ru.wikipedia.org/wiki/%D1%87%D0%B0%D1%88%D0%BA%D0%B0)
+
+pepper-pot [ˈpepə_pɒt] - перечница
+
+pepper [ˈpepə] -  перец, перчик
+
+pot [pɒt] - баночка, горшочек
+
+salt cellar [sɔːlt ˈselə] - [солонка](https://ru.wikipedia.org/wiki/%D0%BF%D0%B5%D1%80%D0%B5%D1%87%D0%BD%D0%B8%D1%86%D0%B0)
+
+sugar-bowl [ˈʃʊgəbəʊl] - [сахарница](https://ru.wikipedia.org/wiki/%D1%81%D0%B0%D1%85%D0%B0%D1%80%D0%BD%D0%B8%D1%86%D0%B0)
+
+butter-dish [ˈbʌtə dɪʃ] - маслёнка
+
+coffee mug [ˈkɒfɪ mʌg] - кружка для кофе
+
+plate [pleɪt] - тарелка
+
+glass [glɑːs],tumbler [ˈtʌmblə] - стакан
+
+fork [fɔːk] - вилка
+
+spoon [spuːn] - ложка
+
+teaspoon [ˈtiːspuːn] - [чайная ложка](https://ru.wikipedia.org/wiki/%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0)
+
+table knife [teɪbl naɪf] - столовый нож
+
+knife [naɪf] - нож
+
+scrub [skrʌb] (scour [ˈskaʊə]) dishes [ˈdɪʃɪz] - чистить посуду
+
+kitchen towel [ˈkɪʧɪn ˈtaʊəl] - кухонное полотенце
+
+towel [ˈtaʊəl] - салфетка
+
+napkin [ˈnæpkɪn] - салфетка
+
+skewer [ˈskjuːə] - шпажка (шампур), вертел
+
+### Для кухни... for the kitchen [fɔː ðiː ˈkɪʧɪn]
+
+table for two [teɪbl_fɔː tuː]- [стол](https://ru.wikipedia.org/wiki/%D1%81%D1%82%D0%BE%D0%BB) на двоих
+
+clear the table [klɪə ðiː teɪbl] - убирать/убрать со стола
+
+to form [tuː fɔːm], to shape [tuː ʃeɪp] - формировать, придавать форму
+
+be hungry [biː ˈhʌŋgrɪ] - быть голодным, хотеть есть
+
+hungry[ˈhʌŋgrɪ] - [голодный](https://translate.yandex.ru/translate?url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FHunger&lang=en-ru&view=c&gcp=nxr000semp4s)
+
+be[biː] - быть
+
+be thirsty [biː_ˈθɜːstɪ] - хотеть пить
+
+thirsty[ˈθɜːstɪ] - жаждущий, испытывающий жажду
+
+dinner [ˈdɪnə], supper [ˈsʌpə], evening meal [ˈiːvnɪŋ miːl] - [ужин](https://translate.yandex.ru/translate?url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FSupper&lang=en-ru&view=c&gcp=nxr000semp4s)
+
+to have dinner [tuː hæv ˈdɪnə]/supper [ˈsʌpə], to dine [daɪn] - ужинать/поужинать, чтобы поужинать вместе
+
+peel [piːl] - чистить (фрукты, овощи); to shell [ʃel] - (орехи); to scale [skeɪl]- (рыбу)
+
+fruit [fruːt] - фрукты
+
+vegetables [ˈveʤtəbəlz] - овощи
+
+nuts [nʌts] - орехи
+
+fish [fɪʃ] - рыба
+
+clean chicken [kliːn_ˈʧɪkɪn]- чистить курицу
+
+clean [kliːn] - чистить, чистый
+
+chicken[ˈʧɪkɪn] - курица
+
+clean and gut fish [kliːn_ænd_gʌt_fɪʃ]- чистить и потрошить рыбу
+
+and [ænd] - и
+
+gut [gʌt] - потрошить, кишка
+
+bill [bɪl] - счёт
+
+to boil down [tɔ_bɔɪl daʊn] - довести до кипения, уварить
+
+raw [rɔː], uncooked [ʌnˈkʊkt], green [griːn], unripe [ʌnˈraɪp] - сырой
+
+### Продукты - products [ˈprɒdəkts]
+
+sterlet [ˈstɜːlɪt] - [стерлядь](https://ru.wikipedia.org/wiki/%D1%81%D1%82%D0%B5%D1%80%D0%BB%D1%8F%D0%B4%D1%8C)
+
+French beans [frenʧ_biːn] - Французская фасоль, стручковая фасоль
+
+haricot beans [ˈhærɪkəʊ biːnz]; French / kidney beans [frenʧ]/[ˈkɪdnɪ biːnz] - фасоль
+
+haricot [ˈhærɪkəʊ] - [фасоль](https://ru.wikipedia.org/wiki/%D1%84%D0%B0%D1%81%D0%BE%D0%BB%D1%8C)
+
+bean [biːnz] - зернышки
+
+French [frenʧ] - Французский
+
+bean [biːn] - зернышки, [фасоль](https://ru.wikipedia.org/wiki/%D0%A4%D0%B0%D1%81%D0%BE%D0%BB%D1%8C), [боб](https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D0%B1%D1%8B)
+
+kidney [ˈkɪdnɪ] - почка
+
+zander [ˈzændə], pikeperch [ˈpɪkpɜːʧ] - [судак](https://ru.wikipedia.org/wiki/%D0%A1%D1%83%D0%B4%D0%B0%D0%BA%D0%B8)
+
+soup [suːp] - суп
+
+souffle [suːfl] - [суфле](https://ru.wikipedia.org/wiki/%D1%81%D1%83%D1%84%D0%BB%D0%B5)
+
+ammonium carbonate [əˈməʊnjəm ˈkɑːbənɪt] - углекислый аммоний, [карбонат аммония](https://translate.yandex.ru/translate?url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FAmmonium_carbonate&lang=en-ru&view=c&gcp=nxr000semp4s)
+
+bread crumbs [bred krʌmz] - [сухари панировочные](https://ru.wikipedia.org/wiki/%D0%BF%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B0)
+
+cheese [ʧiːz] - [сыр](https://translate.yandex.ru/translate?url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FCheese&lang=en-ru&view=c&gcp=nxr000semp4s)
+
+hard cheese [hɑːd ʧiːz] - сыр твердый
+
+curd cheese [kɜːd ʧiːz] - [сыр творожный](https://ru.wikipedia.org/wiki/%D1%82%D0%B2%D0%BE%D1%80%D0%BE%D0%B3)
+
+curd [kɜːd] - творог
+
+cheese Philadelphia [fɪləˈdelfɪə ʧiːz]- [сыр филадельфия](https://ru.wikipedia.org/wiki/%D0%A4%D0%B8%D0%BB%D0%B0%D0%B4%D0%B5%D0%BB%D1%8C%D1%84%D0%B8%D1%8F_(%D1%81%D1%8B%D1%80))
+
+cheese ball [ʧiːz bɔːl]- сырный шарик
+
+tuile [tɥil] - [тюильри](https://translate.yandex.ru/translate?url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FTuile&lang=en-ru&view=c&gcp=nxr000semp4s)
+
+tuile [tɥil] - черепица, плитка, кафель
+
+curds [kɜːdz], cottage cheese [ˈkɒtɪʤ ʧiːz] - [творог](https://translate.yandex.ru/translate?url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FCottage_cheese&lang=en-ru&view=c&gcp=nxr000semp4s)
+
+veal [viːl] - телятина
+
+dough [dəʊ] - тесто (для хлеба)(для пирогов и др.) pastry
+
+pastry [ˈpeɪstrɪ] - для кондитерских изделий, для пирогов и др.
+
+filo pastry [ˈpeɪstrɪ_filo] - [тесто фило](https://translated.turbopages.org/proxy_u/en-ru.ru.43a2c826-665ee08b-81bcd64c-74722d776562/https/en.wikipedia.org/wiki/Filo), кондитерские изделия
+
+thyme [taɪm] - [тимьян](https://ru.wikipedia.org/wiki/%D0%A2%D0%B8%D0%BC%D1%8C%D1%8F%D0%BD)
+
+crushed almonds [krʌʃt ˈɑːməndz]- толчёный миндаль
+
+crushed [krʌʃt] - раздавленный, измельченный
+
+pounded [ˈpaʊndɪd] - толчёный
+
+ground almonds [graʊnd ˈɑːməndz]- дроблёный миндаль
+
+almonds [ˈɑːməndz] - [миндаль](https://ru.wikipedia.org/wiki/%D0%BC%D0%B8%D0%BD%D0%B4%D0%B0%D0%BB%D1%8C)
+
+ground [graʊnd] - земля
+
+grind[graɪnd] - молоть
+
+tomatoes confit [tomatoes kənˈfɪt] - [томаты конфи](https://vk.com/wall-201283805_3389)
+
+cherry tomatoes [ˈʧerɪ təˈmɑːtəʊz]- [томаты черри](https://ru.wikipedia.org/wiki/%D0%A2%D0%BE%D0%BC%D0%B0%D1%82_%D1%87%D0%B5%D1%80%D1%80%D0%B8)
+
+cherry [ˈʧerɪ] - вишня
+
+tomato [təˈmɑːtəʊ] - помидоры
+
+melted butter [ˈmeltɪd ˈbʌtə] - растопленное сливочное масло, [топленое масло]([ˈmeltɪd ˈbʌtə])
+
+cake [keɪk] - торт
+
+vinegar [ˈvɪnɪgə] - [уксус](https://translate.yandex.ru/translate?url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FVinegar&lang=en-ru&view=c&gcp=nxr000semp4s)
+
+trout [traʊt] - форель
+
+stuffing [ˈstʌfɪŋ] - фарш
+
+minced meat [mɪnst miːt] - мясной [фарш](https://ru.wikipedia.org/wiki/%D1%84%D0%B0%D1%80%D1%88)
+
+sausage meat [ˈsɒsɪʤ miːt] - колбасный фарш
+
+fennel [fenl] - [фенхель](https://ru.wikipedia.org/wiki/%D0%A4%D0%B5%D0%BD%D1%85%D0%B5%D0%BB%D1%8C)
+
+fish fillet [fɪʃ ˈfɪlɪt] - [рыбное филе](https://ru.wikipedia.org/wiki/%D1%80%D1%8B%D0%B1%D0%BD%D0%BE%D0%B5_%D1%84%D0%B8%D0%BB%D0%B5)
+
+fish [fɪʃ] - рыба
+
+fillet [ˈfɪlɪt] - филе
+
+frying fat [ˈfraɪɪŋ fæt] - жир для жарки, [фритюр](https://ru.wikipedia.org/wiki/%D1%84%D1%80%D0%B8%D1%82%D1%8E%D1%80)
+
+(piece of) fruit [piːs ɒv fruːt] - (кусочек) фрукта
+
+fruit [fruːt] - фрукты
+
+bread [bred] - хлеб
+
+tea [tiː] - чай
+
+zucchini [zʊˈkiːnɪ] / courgette [kʊəˈʒet] - цукини / кабачок — (The name zucchini is used in American, Australian, Canadian and New Zealand, English) - (The name courgette is used in British, [Hiberno](https://ru.wikipedia.org/wiki/%D0%93%D0%B8%D0%B1%D0%B5%D1%80%D0%BD%D0%BE-%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA), Malaysian, New Zealand, and South African English)
+
+cherry [ˈʧerɪ] - вишня, черешня
+
+cherries [ˈʧerɪz] - вишни, черешня
+
+blackcurrant [blækˈkʌrənt] - чёрная смородина
+
+garlic [ˈgɑːlɪk] - [чеснок](https://ru.wikipedia.org/wiki/%D1%87%D0%B5%D1%81%D0%BD%D0%BE%D0%BA)
+
+lentil [ˈlentl] - [чечевица](https://ru.wikipedia.org/wiki/%D0%A7%D0%B5%D1%87%D0%B5%D0%B2%D0%B8%D1%86%D0%B0)
+
+champignon [ˈʃɒmpɪnjɒŋ] - [шампиньон](https://ru.wikipedia.org/wiki/%D1%88%D0%B0%D0%BC%D0%BF%D0%B8%D0%BD%D1%8C%D0%BE%D0%BD)
+
+saffron [ˈsæfrən] - [шафран](https://translate.yandex.ru/translate?url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FSaffron&lang=en-ru&view=c&gcp=nxr000semp4s)
+
+shiitake [ʃiːˈtɑːkeɪ] - [шиитаке](https://ru.wikipedia.org/wiki/%D1%88%D0%B8%D0%B8%D1%82%D0%B0%D0%BA%D0%B5) (гриб - mushroom[ˈmʌʃrum])
+
+mushroom[ˈmʌʃrum] - [гриб](https://translate.yandex.ru/translate?url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FMushroom&lang=en-ru&view=c&gcp=nxr000semp4s)
+
+spinach [ˈspɪnɪʧ] - [шпинат](https://ru.wikipedia.org/wiki/%D0%A8%D0%BF%D0%B8%D0%BD%D0%B0%D1%82)
+
+cauliflower [ˈkɒlɪflaʊə] - [цветная капуста](https://ru.wikipedia.org/wiki/%D0%A6%D0%B2%D0%B5%D1%82%D0%BD%D0%B0%D1%8F_%D0%BA%D0%B0%D0%BF%D1%83%D1%81%D1%82%D0%B0)
+
+rind [raɪnd] - кожура, [цедра](https://ru.wikipedia.org/wiki/%D0%A6%D0%B5%D0%B4%D1%80%D0%B0)
+
+escabeche sauce - [эскабече соус](https://ru.wikipedia.org/wiki/%D0%AD%D1%81%D0%BA%D0%B0%D0%B1%D0%B5%D1%87%D0%B5)
+
+escabeche [eskaˈβet͡ʃe] испанский - [эскабеш](https://translate.yandex.ru/translate?url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FEscabeche&lang=en-ru&view=c&gcp=nxr000semp4s)
+
+sauce [sɔːs] - соус
+
+essence [esns] - [эссенция](https://dic.academic.ru/dic.nsf/enc3p/338246)
+
+apple [æpl] - яблоко (The parts of an apple are the skin, the flesh, the core, the seeds, the stem, and the leaves)(Яблоко состоит из кожуры, мякоти, сердцевины, семян, плодоножки и листьев)
+
+skin [skɪn] - кожа, кожура
+
+flesh [fleʃ] - мякоть, плоть
+
+core [kɔː] - ядро, сердцевина,
+
+seeds [siːdz] - семена
+
+stem [stem] - стебель, плодоножка
+
+leaves [liːvz] - листья
+
+egg [eg] - яйцо
