@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024-07-28.md",
-                "mode": "source",
+                "file": "Daily/2024-05-05 - способ исправить кодировку в cmd (командной строке).md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "[\"author\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024-07-28.md",
+                "file": "Daily/2024-05-05 - способ исправить кодировку в cmd (командной строке).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024-07-28.md",
+                "file": "Daily/2024-05-05 - способ исправить кодировку в cmd (командной строке).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024-07-28.md"
+                "file": "Daily/2024-05-05 - способ исправить кодировку в cmd (командной строке).md"
               }
             }
           },
@@ -163,6 +163,29 @@
   },
   "active": "0258efd302a1ace0",
   "lastOpenFiles": [
+    "Daily/2024-05-03 - Ввод(запись)-Вывод (чтение) текстового файла в командной строке.md",
+    "Daily/2024-05-05 - способ исправить кодировку в cmd (командной строке).md",
+    "Daily/2024-05-08 - крякозябры в wordpad.md",
+    "Daily/2024-05-18 - ProgLite_RU.md",
+    "Daily/Как завести блог на Jekyll.md",
+    "Daily/установка корневого сертификата.md",
+    "HTML/2024-04-27 - css_preview.md",
+    "HTML/вставить рисунок в html.md",
+    "Daily/2024-07-28 - Это новости FOSS.md",
+    "HTML",
+    "Quarto/Quarto_html.md",
+    "Quarto/Quarto+кирилица_rus.md",
+    "Quarto/Quarto+RStudio.md",
+    "Quarto/Quarto_Word.md",
+    "Quarto/Quarto_TinyTeX.md",
+    "Quarto/Quarto_links.md",
+    "Quarto/Quarto_LaTeX_in_out.md",
+    "Quarto/Quarto_docx1.md",
+    "Quarto/Quarto_docx.md",
+    "Quarto/Quarto_Basics.md",
+    "Files/vscode_addons.png",
+    "Files/scale_1200.png",
+    "Files/Blog with Quarto.mp4",
     "English/eng/kitchen.qmd",
     "English/eng/get.qmd",
     "English/eng/50_irregular.qmd",
@@ -175,40 +198,17 @@
     "English/eng/img/to_be.jpg",
     "English/eng/img/telephone.jpg",
     "English/eng/img/shopping.jpg",
-    "English/eng/img/relatives.jpg",
-    "English/eng/img/porridge_cereals.jpg",
     "English/eng/img",
     "English/eng/BrE_vs_AmE.qmd",
     "English/14 английских наречий.md",
-    "Daily/2024-07-28.md",
     "Daily/2024-01-15 - 14.1 Ноутбук DEXP Aquilon.md",
     "English/50 прилагательных.md",
     "English/100 английских фраз 1.md",
     "English/67 ЛУЧШИХ фраз.md",
     "Личнные/14.1_dexp_aquilon.md",
     "Личнные/Гречкина.md",
-    "Интересное/2024-05-15 - Вилючинск.md",
-    "Интересное/petropavlovsk.md",
     "Личнные/14.1_dexp_aquilon.txt",
     "Личнные/petropavlovsk.txt",
-    "Личнные/crontab dates.md",
-    "Crontab.md",
-    "Личнные/14.1_dexp_aquilon 3.txt",
-    "Личнные/14.1_dexp_aquilon 2.txt",
-    "Личнные/14.1_dexp_aquilon 1.txt",
-    "Интересное/2022-09-05-Учиться, учиться и учиться.md",
-    "Интересное/2022-11-09-Ст.209 и 154!!! СССР.md",
-    "Интересное/2023-11-28-Иосиф Сталин.md",
-    "Интересное/2024-01-09 - Иосиф Сталин.md",
-    "Daily/2023-12-08 - Win 11 + office(активация).md",
-    "Daily/2023-11-15-Как настроить OpenVPN и подключиться к асболютно бесплатным VPN-серверам..md",
-    "Daily/2023-11-26-кулинария.md",
-    "Daily/2023-11-11-Клавиша prior.md",
-    "Daily/2023-08-21-PowerPoint  LibreOffice Impress.md",
-    "Win/2023-09-14-Как убрать учетную запись Майкрософт.md",
-    "Win/2024-01-08 - Удаление Microsoft 365 вручную с помощью Windows PowerShell.md",
-    "Daily/2024-01-08 - linux && windows.md",
-    "Daily/2024-01-15 - Чем различаются стандарты 802.11 b, g, a, n, ac, ax.md",
     "Без названия.canvas"
   ]
 }
