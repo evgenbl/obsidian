@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English/eng/kitchen.qmd",
+                "file": "Daily/2024-07-28.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English/eng/kitchen.qmd",
+                "file": "Daily/2024-07-28.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English/eng/kitchen.qmd",
+                "file": "Daily/2024-07-28.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English/eng/kitchen.qmd"
+                "file": "Daily/2024-07-28.md"
               }
             }
           },
@@ -158,12 +158,12 @@
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
       "markdown-importer:Импорт Markdown-файлов": false,
-      "audio-recorder:Начать/остановить запись": false,
-      "obsidian42-brat:BRAT": false
+      "audio-recorder:Начать/остановить запись": false
     }
   },
   "active": "0258efd302a1ace0",
   "lastOpenFiles": [
+    "English/eng/kitchen.qmd",
     "English/eng/get.qmd",
     "English/eng/50_irregular.qmd",
     "English/eng/img/50_irregular.jpg",
@@ -209,7 +209,6 @@
     "Win/2024-01-08 - Удаление Microsoft 365 вручную с помощью Windows PowerShell.md",
     "Daily/2024-01-08 - linux && windows.md",
     "Daily/2024-01-15 - Чем различаются стандарты 802.11 b, g, a, n, ac, ax.md",
-    "Win",
     "Без названия.canvas"
   ]
 }
