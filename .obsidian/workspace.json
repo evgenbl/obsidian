@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024-07-28 - Это новости FOSS.md",
-                "mode": "preview",
+                "file": "Daily/Краткое описания пакетов GNU.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"author\"]",
+                "query": "[\"pdf-engine\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024-07-28 - Это новости FOSS.md",
+                "file": "Daily/Краткое описания пакетов GNU.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024-07-28 - Это новости FOSS.md",
+                "file": "Daily/Краткое описания пакетов GNU.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024-07-28 - Это новости FOSS.md"
+                "file": "Daily/Краткое описания пакетов GNU.md"
               }
             }
           },
@@ -163,33 +163,33 @@
   },
   "active": "0258efd302a1ace0",
   "lastOpenFiles": [
+    "Daily/2024-07-29 - Программы GNU.md",
+    "Daily/2024-07-30.md",
     "Daily/Как завести блог на Jekyll.md",
+    "Daily/Краткое описания пакетов GNU.md",
+    "Daily/голова GNU.md",
+    "Daily/A GNU head.md",
+    "Daily/2024-05-08 - крякозябры в wordpad.md",
+    "Quarto/R Markdown в PDF на кириллице.md",
+    "Интересное/2022-10-09-От каждого — по способностям, каждому — по труду.md",
+    "Quarto/Quarto_docx.md",
+    "Daily/2024-07-28 - Это новости FOSS.md",
     "Obsidian/2023-10-17-plugin for obsidian.md",
     "Obsidian/2023-10-14-Callouts.md",
     "Obsidian/2023-10-16-Example.md",
     "HTML/2023-10-17-Изменение размера изображений.md",
     "HTML/2023-10-17-Встраивает видео с Youtube.md",
-    "Daily/2024-07-28 - Это новости FOSS.md",
     "Daily/2023-11-15-Как настроить OpenVPN и подключиться к асболютно бесплатным VPN-серверам..md",
     "Daily/2023-11-26-кулинария.md",
     "HTML/2024-01-18 - Лучшие инструменты и библиотеки для преобразования HTML в Markdown.md",
     "Daily/2024-04-25 - Форматирование жесткого диска с помощью Управления дисками.md",
     "Daily/2024-05-05 - способ исправить кодировку в cmd (командной строке).md",
     "Daily/2024-05-03 - Ввод(запись)-Вывод (чтение) текстового файла в командной строке.md",
-    "Daily/2024-05-08 - крякозябры в wordpad.md",
     "Daily/2024-05-18 - ProgLite_RU.md",
     "Daily/установка корневого сертификата.md",
     "HTML/2024-04-27 - css_preview.md",
     "HTML/вставить рисунок в html.md",
     "HTML",
-    "Quarto/Quarto_html.md",
-    "Quarto/Quarto+кирилица_rus.md",
-    "Quarto/Quarto+RStudio.md",
-    "Quarto/Quarto_Word.md",
-    "Quarto/Quarto_TinyTeX.md",
-    "Quarto/Quarto_links.md",
-    "Quarto/Quarto_LaTeX_in_out.md",
-    "Quarto/Quarto_docx1.md",
     "Files/vscode_addons.png",
     "Files/scale_1200.png",
     "Files/Blog with Quarto.mp4",
