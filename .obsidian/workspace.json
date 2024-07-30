@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/Краткое описания пакетов GNU.md",
+                "file": "Daily/2024-05-18 - ProgLite_RU.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/Краткое описания пакетов GNU.md",
+                "file": "Daily/2024-05-18 - ProgLite_RU.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/Краткое описания пакетов GNU.md",
+                "file": "Daily/2024-05-18 - ProgLite_RU.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/Краткое описания пакетов GNU.md"
+                "file": "Daily/2024-05-18 - ProgLite_RU.md"
               }
             }
           },
@@ -164,9 +164,11 @@
   "active": "0258efd302a1ace0",
   "lastOpenFiles": [
     "Daily/2024-07-29 - Программы GNU.md",
+    "Daily/2024-07-29-Краткое описания пакетов GNU.md",
+    "Daily/2024-05-18 - ProgLite_RU.md",
+    "Daily/2024-07-31.md",
     "Daily/2024-07-30.md",
     "Daily/Как завести блог на Jekyll.md",
-    "Daily/Краткое описания пакетов GNU.md",
     "Daily/голова GNU.md",
     "Daily/A GNU head.md",
     "Daily/2024-05-08 - крякозябры в wordpad.md",
@@ -185,10 +187,8 @@
     "Daily/2024-04-25 - Форматирование жесткого диска с помощью Управления дисками.md",
     "Daily/2024-05-05 - способ исправить кодировку в cmd (командной строке).md",
     "Daily/2024-05-03 - Ввод(запись)-Вывод (чтение) текстового файла в командной строке.md",
-    "Daily/2024-05-18 - ProgLite_RU.md",
     "Daily/установка корневого сертификата.md",
     "HTML/2024-04-27 - css_preview.md",
-    "HTML/вставить рисунок в html.md",
     "HTML",
     "Files/vscode_addons.png",
     "Files/scale_1200.png",
