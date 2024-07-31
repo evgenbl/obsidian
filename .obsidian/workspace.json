@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024-05-18 - ProgLite_RU.md",
+                "file": "Daily/2024-07-31 - slackpkg(установка-удаление-поиск...).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024-05-18 - ProgLite_RU.md",
+                "file": "Daily/2024-07-31 - slackpkg(установка-удаление-поиск...).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024-05-18 - ProgLite_RU.md",
+                "file": "Daily/2024-07-31 - slackpkg(установка-удаление-поиск...).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024-05-18 - ProgLite_RU.md"
+                "file": "Daily/2024-07-31 - slackpkg(установка-удаление-поиск...).md"
               }
             }
           },
@@ -163,10 +163,10 @@
   },
   "active": "0258efd302a1ace0",
   "lastOpenFiles": [
+    "Daily/2024-05-18 - ProgLite_RU.md",
     "Daily/2024-07-29 - Программы GNU.md",
     "Daily/2024-07-29-Краткое описания пакетов GNU.md",
-    "Daily/2024-05-18 - ProgLite_RU.md",
-    "Daily/2024-07-31.md",
+    "Daily/2024-07-31 - slackpkg(установка-удаление-поиск...).md",
     "Daily/2024-07-30.md",
     "Daily/Как завести блог на Jekyll.md",
     "Daily/голова GNU.md",
