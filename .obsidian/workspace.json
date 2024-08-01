@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "5e31440bd1e8ef2e",
+        "id": "5c0ae8255330f880",
         "type": "tabs",
         "children": [
           {
-            "id": "0258efd302a1ace0",
+            "id": "282470db4e25386f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2024-07-31 - slackpkg(установка-удаление-поиск...).md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -39,7 +34,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byCreatedTimeReverse"
               }
             }
           },
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024-07-31 - slackpkg(установка-удаление-поиск...).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024-07-31 - slackpkg(установка-удаление-поиск...).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Daily/2024-07-31 - slackpkg(установка-удаление-поиск...).md"
-              }
+              "state": {}
             }
           },
           {
@@ -143,11 +134,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 319.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -161,34 +152,34 @@
       "audio-recorder:Начать/остановить запись": false
     }
   },
-  "active": "0258efd302a1ace0",
+  "active": "282470db4e25386f",
   "lastOpenFiles": [
+    "Win/2024-07-31 - планировщик заданий.md",
+    "Win/2024-07-30 - свойства системы.md",
+    "Daily/2023-11-15-Как настроить OpenVPN и подключиться к асболютно бесплатным VPN-серверам..md",
+    "Daily/2023-12-08 - Win 11 + office(активация).md",
+    "Quarto/2024-03-27 - RStudio_dic.md",
+    "Daily/Как завести блог на Jekyll.md",
+    "Daily/Как удалить раздел жесткого диска или SSD Windows 10, 8.1 и Windows 7.md",
+    "Daily/2024-08-01.md",
+    "Win/Резервные копии OneNote.md",
+    "Win/Как отключить OneDrive.md",
+    "Win/Включить Hyper-V.md",
+    "Win/Отключить Hyper-V.md",
+    "Win/Отключить телеметрию в Windows 10.md",
+    "Win/Для доступа к программам и компонентам в Windows вы можете использовать следующие способы.md",
+    "Win/Установите IIS в Windows 11 с помощью команды Powershell.md",
+    "Win/PowerPoint  LibreOffice Impress.md",
+    "Win/PowerPoint LibreOffice Impress.md",
+    "Win/Отсутствуют разрешения на открытие этого файла.md",
+    "Daily/Без названия.md",
     "Daily/2024-05-18 - ProgLite_RU.md",
     "Daily/2024-07-29 - Программы GNU.md",
     "Daily/2024-07-29-Краткое описания пакетов GNU.md",
     "Daily/2024-07-31 - slackpkg(установка-удаление-поиск...).md",
-    "Daily/2024-07-30.md",
-    "Daily/Как завести блог на Jekyll.md",
     "Daily/голова GNU.md",
     "Daily/A GNU head.md",
     "Daily/2024-05-08 - крякозябры в wordpad.md",
-    "Quarto/R Markdown в PDF на кириллице.md",
-    "Интересное/2022-10-09-От каждого — по способностям, каждому — по труду.md",
-    "Quarto/Quarto_docx.md",
-    "Daily/2024-07-28 - Это новости FOSS.md",
-    "Obsidian/2023-10-17-plugin for obsidian.md",
-    "Obsidian/2023-10-14-Callouts.md",
-    "Obsidian/2023-10-16-Example.md",
-    "HTML/2023-10-17-Изменение размера изображений.md",
-    "HTML/2023-10-17-Встраивает видео с Youtube.md",
-    "Daily/2023-11-15-Как настроить OpenVPN и подключиться к асболютно бесплатным VPN-серверам..md",
-    "Daily/2023-11-26-кулинария.md",
-    "HTML/2024-01-18 - Лучшие инструменты и библиотеки для преобразования HTML в Markdown.md",
-    "Daily/2024-04-25 - Форматирование жесткого диска с помощью Управления дисками.md",
-    "Daily/2024-05-05 - способ исправить кодировку в cmd (командной строке).md",
-    "Daily/2024-05-03 - Ввод(запись)-Вывод (чтение) текстового файла в командной строке.md",
-    "Daily/установка корневого сертификата.md",
-    "HTML/2024-04-27 - css_preview.md",
     "HTML",
     "Files/vscode_addons.png",
     "Files/scale_1200.png",
