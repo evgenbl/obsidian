@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024-08-01.md",
+                "file": "Daily/2023-11-15-Как настроить OpenVPN и подключиться к асболютно бесплатным VPN-серверам..md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024-08-01.md",
+                "file": "Daily/2023-11-15-Как настроить OpenVPN и подключиться к асболютно бесплатным VPN-серверам..md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024-08-01.md",
+                "file": "Daily/2023-11-15-Как настроить OpenVPN и подключиться к асболютно бесплатным VPN-серверам..md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024-08-01.md"
+                "file": "Daily/2023-11-15-Как настроить OpenVPN и подключиться к асболютно бесплатным VPN-серверам..md"
               }
             }
           },
@@ -163,6 +163,8 @@
   },
   "active": "282470db4e25386f",
   "lastOpenFiles": [
+    "Daily/2024-08-02.md",
+    "Daily/2024-08-01.md",
     "Win/2024-07-31 - планировщик заданий.md",
     "Win/2024-07-30 - свойства системы.md",
     "Daily/2023-11-15-Как настроить OpenVPN и подключиться к асболютно бесплатным VPN-серверам..md",
@@ -170,7 +172,6 @@
     "Quarto/2024-03-27 - RStudio_dic.md",
     "Daily/Как завести блог на Jekyll.md",
     "Daily/Как удалить раздел жесткого диска или SSD Windows 10, 8.1 и Windows 7.md",
-    "Daily/2024-08-01.md",
     "Win/Резервные копии OneNote.md",
     "Win/Как отключить OneDrive.md",
     "Win/Включить Hyper-V.md",
@@ -188,7 +189,6 @@
     "Daily/2024-07-31 - slackpkg(установка-удаление-поиск...).md",
     "Daily/голова GNU.md",
     "Daily/A GNU head.md",
-    "Daily/2024-05-08 - крякозябры в wordpad.md",
     "HTML",
     "Files/vscode_addons.png",
     "Files/scale_1200.png",
