@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2023-11-15-Как настроить OpenVPN и подключиться к асболютно бесплатным VPN-серверам..md",
+                "file": "Quarto/GNU R (пакет R-base, R-full, R-devel).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 373.5
+    "width": 517.5
   },
   "right": {
     "id": "46d166c857f705b2",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2023-11-15-Как настроить OpenVPN и подключиться к асболютно бесплатным VPN-серверам..md",
+                "file": "Quarto/GNU R (пакет R-base, R-full, R-devel).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2023-11-15-Как настроить OpenVPN и подключиться к асболютно бесплатным VPN-серверам..md",
+                "file": "Quarto/GNU R (пакет R-base, R-full, R-devel).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2023-11-15-Как настроить OpenVPN и подключиться к асболютно бесплатным VPN-серверам..md"
+                "file": "Quarto/GNU R (пакет R-base, R-full, R-devel).md"
               }
             }
           },
@@ -141,13 +141,21 @@
                 "searchQuery": ""
               }
             }
+          },
+          {
+            "id": "ac804b79e696b7fe",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 319.5
+    "width": 373.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,39 +171,39 @@
   },
   "active": "282470db4e25386f",
   "lastOpenFiles": [
+    "Quarto/Что такое Quarto.md",
+    "Quarto/Tarball Installation On Linux.md",
+    "Quarto/R Markdown в PDF на кириллице.md",
+    "Quarto/tinytex_install.md",
+    "Quarto/TinyTeX.md",
+    "Quarto/TinyTeX-1.md",
+    "Quarto/RStudio.md",
+    "Quarto/GNU R (пакет R-base, R-full, R-devel).md",
+    "Quarto/CRAN Mirrors.md",
+    "Quarto/Без названия.md",
+    "Quarto/Rmarkdown.md",
+    "Daily/установка корневого сертификата.md",
+    "English/eng/50_irregular.qmd",
+    "Daily/2023-11-26-кулинария.md",
+    "Daily/2024-05-08 - крякозябры в wordpad.md",
+    "Daily/2024-05-18 - ProgLite_RU.md",
+    "Daily/2024-08-03.md",
+    "Daily/2023-11-15-Как настроить OpenVPN и подключиться к асболютно бесплатным VPN-серверам..md",
     "Daily/2024-08-02.md",
     "Daily/2024-08-01.md",
     "Win/2024-07-31 - планировщик заданий.md",
     "Win/2024-07-30 - свойства системы.md",
-    "Daily/2023-11-15-Как настроить OpenVPN и подключиться к асболютно бесплатным VPN-серверам..md",
     "Daily/2023-12-08 - Win 11 + office(активация).md",
     "Quarto/2024-03-27 - RStudio_dic.md",
     "Daily/Как завести блог на Jekyll.md",
     "Daily/Как удалить раздел жесткого диска или SSD Windows 10, 8.1 и Windows 7.md",
     "Win/Резервные копии OneNote.md",
-    "Win/Как отключить OneDrive.md",
-    "Win/Включить Hyper-V.md",
-    "Win/Отключить Hyper-V.md",
-    "Win/Отключить телеметрию в Windows 10.md",
-    "Win/Для доступа к программам и компонентам в Windows вы можете использовать следующие способы.md",
-    "Win/Установите IIS в Windows 11 с помощью команды Powershell.md",
-    "Win/PowerPoint  LibreOffice Impress.md",
-    "Win/PowerPoint LibreOffice Impress.md",
-    "Win/Отсутствуют разрешения на открытие этого файла.md",
-    "Daily/Без названия.md",
-    "Daily/2024-05-18 - ProgLite_RU.md",
-    "Daily/2024-07-29 - Программы GNU.md",
-    "Daily/2024-07-29-Краткое описания пакетов GNU.md",
-    "Daily/2024-07-31 - slackpkg(установка-удаление-поиск...).md",
-    "Daily/голова GNU.md",
-    "Daily/A GNU head.md",
     "HTML",
     "Files/vscode_addons.png",
     "Files/scale_1200.png",
     "Files/Blog with Quarto.mp4",
     "English/eng/kitchen.qmd",
     "English/eng/get.qmd",
-    "English/eng/50_irregular.qmd",
     "English/eng/img/50_irregular.jpg",
     "English/eng/clothes.qmd",
     "English/eng/img/weekend.jpg",

@@ -330,6 +330,6 @@ Colombia
 
 По всему миру
 
-|                                                                                                                                                           |       |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
-| [https://mirrors.cicku.me/cran/](https://translated.turbopages.org/proxy_u/en-ru.ru.f14d6fba-66aedd67-f1682b8f-74722d776562/https/mirrors.cicku.me/cran/) | CICKU |
+|   |   |
+|---|---|
+|[https://mirrors.cicku.me/cran/](https://translated.turbopages.org/proxy_u/en-ru.ru.f14d6fba-66aedd67-f1682b8f-74722d776562/https/mirrors.cicku.me/cran/)|CICKU|
